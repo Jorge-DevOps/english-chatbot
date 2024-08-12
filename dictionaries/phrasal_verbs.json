@@ -1,0 +1,415 @@
+{
+  "phrases": [
+    {
+      "answer": "Get on",
+      "translation": "Subir",
+      "example": "They got on the train"
+    },
+    {
+      "answer": "Get on",
+      "translation": "Progresar",
+      "example": "Sue is getting on very well in her new job"
+    },
+    {
+      "answer": "Get on for",
+      "translation": "Llegar a una edad",
+      "example": "He must be getting on for seventy"
+    },
+    {
+      "answer": "Get across",
+      "translation": "Ser entendido",
+      "example": "I had the feeling I wasn't getting the meaning across"
+    },
+    {
+      "answer": "Get at",
+      "translation": "Dar a entender, coloquial",
+      "example": "What are you getting at exactly?"
+    },
+    {
+      "answer": "Get down to",
+      "translation": "Ponerse con algo en serio",
+      "example": "It's time we got down to some real work"
+    },
+    {
+      "answer": "Get off with",
+      "translation": "Evitar un castigo",
+      "example": "They were lucky to get off with such light sentences"
+    },
+    {
+      "answer": "Get over",
+      "translation": "Sorprenderse",
+      "example": "I couldn't get over how well she looked"
+    },
+    {
+      "answer": "Get over with",
+      "translation": "Terminar algo que no nos gusta",
+      "example": "I'll be glad to get this awful business over with"
+    },
+    {
+      "answer": "Get round to",
+      "translation": "Encontrar tiempo para hacer algo",
+      "example": "Sorry, but I haven't got round to fixing the tap yet"
+    },
+    {
+      "answer": "Take in",
+      "translation": "Engañar",
+      "example": "Don't be taken in by her apparent shyness"
+    },
+    {
+      "answer": "Take (it) out on",
+      "translation": "Hacer a alguien sufrir por nuestro propio sufrimiento",
+      "example": "I know you are unhappy, but don't take it out on me!"
+    },
+    {
+      "answer": "Take off",
+      "translation": "Imitar",
+      "example": "Dave takes off the Prime Minister really well"
+    },
+    {
+      "answer": "Take on",
+      "translation": "Adquirir una nueva actividad o hábito",
+      "example": "My grandmother has taken on a new lease of life since her operation"
+    },
+    {
+      "answer": "Take on",
+      "translation": "Hacer algo extra",
+      "example": "She has taken on too much with a full-time job as well"
+    },
+    {
+      "answer": "Take out",
+      "translation": "Firmar un seguro",
+      "example": "Ann has taken out life insurance"
+    },
+    {
+      "answer": "Take over",
+      "translation": "Tomar el control",
+      "example": "The army tried to take over the country"
+    },
+    {
+      "answer": "Take to someone",
+      "translation": "Desarrollar apreciación por alguien",
+      "example": "You'll soon take to your new boss, I'm sure"
+    },
+    {
+      "answer": "Take away",
+      "translation": "Llevarse",
+      "example": "She took the envelope away"
+    },
+    {
+      "answer": "Take up",
+      "translation": "Ocupar tiempo",
+      "example": "The meeting took up a whole morning"
+    },
+    {
+      "answer": "Look up",
+      "translation": "Buscar una referencia",
+      "example": "Look up the term online"
+    },
+    {
+      "answer": "Look someone up",
+      "translation": "Visitar",
+      "example": "If you're passing through Athens, look me up"
+    },
+    {
+      "answer": "Look after",
+      "translation": "Cuidar de",
+      "example": "She looked after her grandmother"
+    },
+    {
+      "answer": "Look into",
+      "translation": "Investigar",
+      "example": "The police have promised to look into the problem"
+    },
+    {
+      "answer": "Look on",
+      "translation": "Considerar",
+      "example": "We look on this town as our real home"
+    },
+    {
+      "answer": "Go after",
+      "translation": "Perseguir",
+      "example": "She is going after a great job"
+    },
+    {
+      "answer": "Go back on",
+      "translation": "Romper una promesa",
+      "example": "The management has gone back on its promise"
+    },
+    {
+      "answer": "Go in for",
+      "translation": "Convertir algo en hábito",
+      "example": "I don't go in for that kind of thing"
+    },
+    {
+      "answer": "Go in for",
+      "translation": "Entrar en una competición",
+      "example": "She went in for the tennis competition"
+    },
+    {
+      "answer": "Go on",
+      "translation": "Continuar",
+      "example": "What happened next? Go on!"
+    },
+    {
+      "answer": "Go off",
+      "translation": "Estropearse",
+      "example": "The milk has gone off"
+    },
+    {
+      "answer": "Go off",
+      "translation": "Irse",
+      "example": "He just went off without saying goodbye"
+    },
+    {
+      "answer": "Go off",
+      "translation": "Sonar (alarm)",
+      "example": "The alarm clock went off at 6 a.m"
+    },
+    {
+      "answer": "Go through",
+      "translation": "Revisar",
+      "example": "I'll go through your manuscript and give you some comments"
+    },
+    {
+      "answer": "Go through",
+      "translation": "Pasar por",
+      "example": "The town has gone through many changes in recent years"
+    },
+    {
+      "answer": "Go without",
+      "translation": "Pasar sin",
+      "example": "We had to go without a holiday this year"
+    },
+    {
+      "answer": "Set off",
+      "translation": "Partir",
+      "example": "What time are we setting off tomorrow?"
+    },
+    {
+      "answer": "Set off",
+      "translation": "Provocar",
+      "example": "His comments set off a series of protests"
+    },
+    {
+      "answer": "Set off",
+      "translation": "Empezar (incendio)",
+      "example": "The fire alarm set off the whole neighborhood"
+    },
+    {
+      "answer": "Set out",
+      "translation": "Salir",
+      "example": "We set out at dawn"
+    },
+    {
+      "answer": "Set out",
+      "translation": "Explicar claramente",
+      "example": "He set out his views in a series of articles"
+    },
+    {
+      "answer": "Set about",
+      "translation": "Comenzar algo",
+      "example": "They set about organizing the party immediately"
+    },
+    {
+      "answer": "Set up",
+      "translation": "Establecer (negocio, organización)",
+      "example": "They set up their own business"
+    },
+    {
+      "answer": "Set up",
+      "translation": "Preparar (engaño)",
+      "example": "She was set up by her friends"
+    },
+    {
+      "answer": "Set up",
+      "translation": "Organizar",
+      "example": "They set up a charity to help the homeless"
+    },
+    {
+      "answer": "Bring back",
+      "translation": "Devolver",
+      "example": "Don't forget to bring my book back tomorrow"
+    },
+    {
+      "answer": "Bring on",
+      "translation": "Causar algo (negativo)",
+      "example": "Smoking brought on his illness"
+    },
+    {
+      "answer": "Bring out",
+      "translation": "Publicar",
+      "example": "He has brought out a new book on gardening"
+    },
+    {
+      "answer": "Bring up",
+      "translation": "Educar a un niño",
+      "example": "They have brought up three children"
+    },
+    {
+      "answer": "Bring up",
+      "translation": "Mencionar",
+      "example": "She didn't mean to bring up the subject of money"
+    },
+    {
+      "answer": "Be on about",
+      "translation": "Querer decir",
+      "example": "What are you on about? I don't understand"
+    },
+    {
+      "answer": "Be onto",
+      "translation": "Hacer un descubrimiento",
+      "example": "My colleague is excited. He must be on to something"
+    },
+    {
+      "answer": "Be out",
+      "translation": "Estar fuera por un periodo corto",
+      "example": "Where's Peter? He's out today"
+    },
+    {
+      "answer": "Be out of",
+      "translation": "Quedarse sin algo",
+      "example": "We're out of coffee I'm afraid"
+    },
+    {
+      "answer": "Be out to",
+      "translation": "Intentar conseguir algo",
+      "example": "He's out to win the match"
+    },
+    {
+      "answer": "Be up",
+      "translation": "Estar despierto",
+      "example": "Tom was up at the crack of dawn!"
+    },
+    {
+      "answer": "Be up",
+      "translation": "Incrementar",
+      "example": "The interest rates are up again"
+    },
+    {
+      "answer": "Be up to",
+      "translation": "Tramar",
+      "example": "What are those kids up to?"
+    },
+    {
+      "answer": "Be up to",
+      "translation": "Ser responsabilidad de alguien",
+      "example": "It's up to the government to find a solution"
+    },
+    {
+      "answer": "See through",
+      "translation": "Descubrir la verdad sobre algo",
+      "example": "I saw through his intentions at once"
+    },
+    {
+      "answer": "See about",
+      "translation": "Organizar, considerar",
+      "example": "I'll see about whether we can manage it"
+    },
+    {
+      "answer": "See into",
+      "translation": "Acompañar al alguien dentro de un sitio",
+      "example": "Her secretary saw me into her office"
+    },
+    {
+      "answer": "See off",
+      "translation": "Perseguir para ahuyentar",
+      "example": "A cat came into the back garden but the dog soon saw it off"
+    },
+    {
+      "answer": "See off",
+      "translation": "Ir a un transporte para decir adiós a alguien",
+      "example": "I went to the station to see them off"
+    },
+    {
+      "answer": "See out",
+      "translation": "Acompañar a alguien a la salida",
+      "example": "Are you sure you're going? I'll get your coats and see you out"
+    },
+    {
+      "answer": "See through",
+      "translation": "Continuar hasta el final",
+      "example": "They had a lot of difficulties in implementing the project, but the team saw it through successfully"
+    },
+    {
+      "answer": "See through",
+      "translation": "Descubrir que alguien miente",
+      "example": "The police quickly saw through her disguise and arrested her"
+    },
+    {
+      "answer": "See to",
+      "translation": "Encargarse de algo",
+      "example": "He saw to the arrangements and everything ran smoothly and efficiently"
+    },
+    {
+      "answer": "Keep up",
+      "translation": "Continuar",
+      "example": "Well done! Keep up the good work!"
+    },
+    {
+      "answer": "Keep around",
+      "translation": "Seguir teniendo algo",
+      "example": "I have no idea why they keep around this piece of junk. They'll never use it"
+    },
+    {
+      "answer": "Keep at",
+      "translation": "Continuar con algo difícil",
+      "example": "Jill kept at the puzzle until she put all the pieces together"
+    },
+    {
+      "answer": "Keep away",
+      "translation": "Mantener lejos",
+      "example": "The warehouse has a guard dog to keep away would-be thieves"
+    },
+    {
+      "answer": "Keep back",
+      "translation": "Mantener la distancia",
+      "example": "The police kept back the crowd by blocking off the street"
+    },
+    {
+      "answer": "Keep down",
+      "translation": "Reprimir",
+      "example": "Keep down the noise, will you? I'm trying to sleep"
+    },
+    {
+      "answer": "Keep from",
+      "translation": "Evitar hacer algo",
+      "example": "I couldn't keep myself from eating the last piece of cake"
+    },
+    {
+      "answer": "Keep in",
+      "translation": "Impedir la salida",
+      "example": "She kept him in because he had a high temperature"
+    },
+    {
+      "answer": "Keep off",
+      "translation": "Evitar hablar de algo",
+      "example": "The reporter kept off the topic of the recent scandal with the politician"
+    },
+    {
+      "answer": "Keep on",
+      "translation": "Continuar",
+      "example": "Let's keep on hiking… it's such a beautiful day"
+    },
+    {
+      "answer": "Keep out",
+      "translation": "No permitir la entrada",
+      "example": "We were kept out of the club because we were too young"
+    },
+    {
+      "answer": "Keep to",
+      "translation": "Mantenerse firme en algo",
+      "example": "Let's keep to the plan. I don't want to make any changes now"
+    },
+    {
+      "answer": "Keep up",
+      "translation": "Mantener",
+      "example": "“Keep up the good work,” John's teacher said to him as he handed back his essay"
+    },
+    {
+      "answer": "take a look",
+      "translation": "echar un vistazo",
+      "example": "“Keep up the good work,” John's teacher said to him as he handed back his essay"
+    }
+  
+  ]
+}

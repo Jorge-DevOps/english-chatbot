@@ -1,0 +1,509 @@
+{
+  "phrases": [
+    {
+      "translation": "Eve había estudiado francés dos años antes de mudarse a Niza",
+      "answer": "Eve had studied French for two years before moving to Nice",
+      "why": "Past perfect simple"
+    },
+    {
+      "translation": "Había nevado tanto que no podíamos usar el coche",
+      "answer": "It had snowed so much we couldn't use the car",
+      "why": "Past perfect simple"
+    },
+    {
+      "translation": "Habíamos estado esperando quince minutos cuando por fin conseguimos mesa",
+      "answer": "We had been waiting for fifteen minutes when we finally got a table",
+      "why": "Past perfect continuous"
+    },
+    {
+      "translation": "Mis amigos ya se habían ido de la cafetería cuando yo llegué",
+      "answer": "My friends had already left the café when I arrived there",
+      "why": "Past perfect simple"
+    },
+    {
+      "translation": "Gabriella sugirió pedir pizza, pero yo ya había encargado comida china",
+      "answer": "Gabriella suggested ordering pizza, but I had already ordered Chinese food",
+      "why": "Past perfect simple"
+    },
+    {
+      "translation": "¿Habías leído la novela cuando viste la película?",
+      "answer": "Had you read the novel when you saw the film?",
+      "why": "Past perfect simple"
+    },
+    {
+      "translation": "Cuando lo miré, me di cuenta de que había estado llorando",
+      "answer": "When I looked at him, I noticed that he had been crying",
+      "why": "Past perfect continuous"
+    },
+    {
+      "translation": "Los niños habían estado comiendo galletas, así que no tenían hambre",
+      "answer": "The children had been eating biscuits, so they weren't hungry",
+      "why": "Past perfect continuous"
+    },
+    {
+      "translation": "Habíamos estado viviendo juntos cinco años cuando decidimos adoptar un perro",
+      "answer": "We had been living together for five years when we decided to adopt a dog",
+      "why": "Past perfect continuous"
+    },
+    {
+      "translation": "No había comido nada en varias horas. Por eso me sentía débil",
+      "answer": "I hadn't eaten anything for several hours. That's why I was feeling weak",
+      "why": "Past perfect simple"
+    },
+    {
+      "translation": "Tim no había visto a Mike en un tiempo, pero lo reconoció inmediatamente porque tenía el mismo aspecto de siempre",
+      "answer": "Tim hadn't seen Mike for a while, but he recognised him immediately because he looked the same as always",
+      "why": "Past perfect simple"
+    },
+    {
+      "translation": "El suelo estaba húmedo porque yo había estado limpiando",
+      "answer": "The floor was wet because I had been cleaning",
+      "why": "Past perfect continuous"
+    },
+    {
+      "translation": "Había estado lloviendo toda la mañana",
+      "answer": "It had been raining all morning",
+      "why": "Past perfect continuous"
+    },
+    {
+      "translation": "Las chicas habían estado jugando al fútbol, así que les hice unos bocadillos",
+      "answer": "The girls had been playing football, so I made some sandwiches for them",
+      "why": "Past perfect continuous"
+    },
+    {
+      "translation": "La reunión ya había terminado a las once",
+      "answer": "The meeting had already finished at eleven",
+      "why": "Past perfect simple"
+    },
+    {
+      "translation": "¿Habías estado en Oporto anteriormente?",
+      "answer": "Had you been in Porto before?",
+      "why": "Past perfect simple"
+    },
+    {
+      "translation": "Mi abuela vivía en una casa que había sido una escuela",
+      "answer": "My grandmother lived in a house that had been a school",
+      "why": "Past perfect simple"
+    },
+    {
+      "translation": "Habían estado viviendo en Londres antes de mudarse a Escocia",
+      "answer": "They had been living in London before moving to Scotland",
+      "why": "Past perfect continuous"
+    },
+    {
+      "translation": "Ron admitió que había estado fumando",
+      "answer": "Ron admitted that he had been smoking",
+      "why": "Past perfect continuous"
+    },
+    {
+      "translation": "Mi camisa estaba manchada porque había estado cocinando",
+      "answer": "My shirt was stained because I had been cooking",
+      "why": "Past perfect continuous"
+    },
+    {
+      "translation": "Theresa llevaba dos horas conduciendo, así que hizo una parada para tomarse un café",
+      "answer": "Theresa had been driving for two hours, so she made a stop to have a coffee",
+      "why": "Past perfect continuous"
+    },
+    {
+      "translation": "Habíamos hecho espaguetis para cenar, así que estábamos bastante llenos",
+      "answer": "We had cooked spaghetti for dinner, so we were quite full",
+      "why": "Past perfect continuous"
+    },
+    {
+      "translation": "Estaba muy cansada cuando llegué a casa del aeropuerto. No había dormido bien en dos días",
+      "answer": "I was very tired when I arrived home from the airport. I hadn't slept properly for two days",
+      "why": "Past perfect simple"
+    },
+    {
+      "translation": "Las calles estaban inundadas por la mañana. Había estado lloviendo toda la noche",
+      "answer": "The streets were flooded in the morning. It had been raining all night",
+      "why": "Past perfect continuous"
+    },
+    {
+      "translation": "Llevaban tres horas caminando cuando un coche paró y les ofreció llevarlos",
+      "answer": "They had been walking for three hours when a car stopped and offered them a ride",
+      "why": "Past perfect continuous"
+    },
+    {
+      "translation": "Sam se había olvidado de añadir sal a la sopa, así que estaba un poco sosa",
+      "answer": "Sam had forgotten to add salt to the soup, so it was quite bland",
+      "why": "Past perfect simple"
+    },
+    {
+      "translation": "Yo ya había visto esa película, así que en su lugar vimos un documental",
+      "answer": "I had already seen that film, so we watched a documentary instead",
+      "why": "Past perfect simple"
+    },
+    {
+      "translation": "Jon había vivido en Marsella un año, así que hablaba francés fluido",
+      "answer": "Jon had lived in Marseille for a year, so he spoke French fluently",
+      "why": "Past perfect simple"
+    },
+    {
+      "translation": "Teníamos mucha sed. Llevábamos una hora sentados al sol",
+      "answer": "We were very thirsty. We had been sitting in the sun for an hour",
+      "why": "Past perfect continuous"
+    },
+    {
+      "translation": "Stella no vino a la reunión porque había cogido un virus el día anterior",
+      "answer": "Stella didn't come to the meeting because she had caught a virus the day before",
+      "why": "Past perfect simple"
+    },
+    {
+      "translation": "Cuando nos mudamos a este barrio, el señor y la señora Turner llevaban viviendo aquí unos cuarenta años",
+      "answer": "When we moved to this neighbourhood, Mr and Mrs Turner had been living here for around forty years",
+      "why": "Past perfect continuous"
+    },
+    {
+      "translation": "Había cerrado la ventana antes de que empezase a llover",
+      "answer": "I had closed the window before it started raining",
+      "why": "Past perfect simple"
+    },
+    {
+      "translation": "La casa estaba muy fría porque nadie había encendido la calefacción",
+      "answer": "The house was very cold because no one had turned on the heating",
+      "why": "Past perfect simple"
+    },
+    {
+      "translation": "Nunca antes había visto un delfín",
+      "answer": "I had never seen a dolphin before",
+      "why": "Past perfect simple"
+    },
+    {
+      "translation": "El tren salió a las cinco en punto. Habíamos llegado a la estación solo cinco minutos antes",
+      "answer": "The train departed at five o'clock. We had arrived at the station only five minutes before",
+      "why": "Past perfect continuous"
+    },
+    {
+      "translation": "Se perdieron porque nunca antes habían estado en Roma",
+      "answer": "They got lost because they had never been to Rome before",
+      "why": "Past perfect simple"
+    },
+    {
+      "translation": "Había traído un chubasquero, pero al final no llovió",
+      "answer": "I had brought a raincoat, but in the end it didn't rain",
+      "why": "Past perfect simple used to express an action completed before another past action"
+    },
+    {
+      "translation": "¿Le habías dado de comer al gato cuando saliste de casa?",
+      "answer": "Had you fed the cat when you left home?",
+      "why": "Past perfect simple used in a question to ask about a completed action before a past time"
+    },
+    {
+      "translation": "Perdona, no te había visto. ¿Cómo va todo?",
+      "answer": "Sorry, I hadn't seen you. How's everything?",
+      "why": "Past perfect simple used to explain why something happened or didn't happen before"
+    },
+    {
+      "translation": "Había estado en este museo antes, pero no recordaba que fuese tan interesante",
+      "answer": "I had been in this museum before, but I didn't remember it was so interesting",
+      "why": "Past perfect continuous used to describe an action that continued up to a certain point in the past"
+    },
+    {
+      "translation": "…Y, después de todo ese trabajo, me despidieron. ¡Nunca me había sentido tan traicionada!",
+      "answer": "…And, after all that work, they fired me. I had never felt so betrayed!",
+      "why": "Past perfect simple used to emphasize the completion of an action before another"
+    },
+    {
+      "translation": "Estaba de buen humor por la tarde porque había estado haciendo jardinería toda la mañana",
+      "answer": "I was in a good mood in the evening because I had been gardening all morning",
+      "why": "Past perfect continuous used to emphasize the duration of an action before another past action"
+    },
+    {
+      "translation": "La carta llegó ayer. Había sido enviada cuatro días antes",
+      "answer": "The letter arrived yesterday. It had been posted four days earlier",
+      "why": "Past perfect simple used to indicate an action completed before another past action"
+    },
+    {
+      "translation": "El cuarto de baño estaba lleno de pelos porque acababa de bañar a mi perro",
+      "answer": "The bathroom was full of hairs because I had just bathed my dog",
+      "why": "Past perfect simple used to explain a past event that had an effect on the present situation"
+    },
+    {
+      "translation": "Fue un concierto increíble. Nunca en mi vida había bailado tanto",
+      "answer": "It was an amazing concert. I had never danced so much in my life",
+      "why": "Past perfect simple used to express an experience up to a certain point in the past"
+    },
+    {
+      "translation": "Sylvia llevaba un año viviendo en Dublín cuando decidió montar un negocio allí",
+      "answer": "Sylvia had been living in Dublin for a year when she decided to set up a business there",
+      "why": "Past perfect continuous used to emphasize the duration of an action before another past action"
+    },
+    {
+      "translation": "Mark no había estado nunca antes en Grecia, pero se sintió como en casa",
+      "answer": "Mark had never been to Greece before, but he felt at home",
+      "why": "Past perfect simple used to indicate an action completed before another in the past"
+    },
+    {
+      "translation": "Llevaba una hora esperando por el autobús, así que estaba bastante impaciente cuando por fin llegó",
+      "answer": "I had been waiting for the bus for an hour, so I was pretty impatient when it finally arrived",
+      "why": "Past perfect continuous used to emphasize the duration of an action up to a certain point in the past"
+    },
+    {
+      "translation": "Acababa de empezar a nevar cuando salí de casa esta mañana",
+      "answer": "It had just started to snow when I left home this morning",
+      "why": "Past perfect simple used to describe an action that had just been completed before another"
+    },
+    {
+      "translation": "Habíamos montado una fiesta la noche anterior, así que había botellas vacías por todas partes",
+      "answer": "We had thrown a party the night before, so there were empty bottles everywhere",
+      "why": "Past perfect simple used to indicate an action completed before another in the past"
+    },
+    {
+      "translation": "Vi a Ellie ayer. Era evidente que llevaba horas estudiando; parecía cansada",
+      "answer": "I saw Ellie yesterday. It was obvious that she had been studying for hours; she looked tired",
+      "why": "Past perfect continuous used to emphasize the duration of an action before another past action"
+    },
+    {
+      "translation": "La reunión había empezado a las diez y ya eran las doce y media, así que pedimos un descanso",
+      "answer": "The meeting had started at ten and it was half past twelve already, so we asked for a break",
+      "why": "Past perfect simple used to indicate an action completed before another in the past"
+    },
+    {
+      "translation": "George había estado bebiendo café toda la mañana, así que a la hora de comer no se encontraba muy bien",
+      "answer": "George had been drinking coffee all morning, so by lunchtime he wasn't feeling very well",
+      "why": "Past perfect continuous used to emphasize the duration of an action before another past action"
+    },
+    {
+      "translation": "Había estado pensando en pintar la cocina de azul, pero entonces decidí que blanco era mejor",
+      "answer": "I had been thinking of painting the kitchen blue, but then I decided white was better",
+      "why": "Past perfect continuous used to emphasize the duration of an action before another past action"
+    },
+    {
+      "translation": "Cuando vi a Diana me di cuenta de que se había cortado el pelo",
+      "answer": "When I saw Diana, I noticed that she had had a haircut",
+      "why": "Past perfect simple used to indicate an action completed before another in the past"
+    },
+    {
+      "translation": "¿Habías comido suficiente para correr una maratón? – Probablemente no. Por eso me sentía tan débil",
+      "answer": "Had you eaten enough to run a marathon? – Probably not. That's why I was feeling so weak",
+      "why": "Past perfect simple used in a question to ask about a completed action before a past time"
+    },
+    {
+      "translation": "El sol había salido, así que la hierba estaba seca",
+      "answer": "The sun had come out, so the grass was dry",
+      "why": "Past perfect simple used to indicate an action completed before another in the past"
+    },
+    {
+      "translation": "Llevaba escribiendo mi informe tres horas. ¡Tenía las manos doloridas!",
+      "answer": "I had been writing my report for three hours. My hands were sore!",
+      "why": "Past perfect continuous used to emphasize the duration of an action before another past action"
+    },
+    {
+      "translation": "¿Habías estado yendo a tus clases de inglés? – No, estaba hasta las cejas de trabajo. Por eso suspendí el examen",
+      "answer": "Had you been attending your answer classes? – No, I was up to my eyes in work. That's why I failed the exam",
+      "why": "Past perfect continuous used in a question to ask about a repeated or continuous action before a past time"
+    },
+    {
+      "translation": "Evie llevaba meses intentando ahorrar dinero para comprarse un ordenador nuevo, así que se puso muy contenta cuando le dieron uno por su cumpleaños",
+      "answer": "Evie had been trying to save money for a new computer for months, so she was very pleased when she got one on her birthday",
+      "why": "Past perfect continuous used to describe an action that was ongoing before a past event"
+    },
+    {
+      "translation": "Había estado buscando mi cartera por todas partes. Me quedé muy aliviada cuando la encontré",
+      "answer": "I had been looking for my wallet everywhere. I was very relieved when I found it",
+      "why": "Past perfect continuous used to describe an action that was ongoing before a past event"
+    },
+    {
+      "translation": "Tom fue despedido ayer, aunque dijo que no había hecho nada mal",
+      "answer": "Tom was made redundant yesterday, although he said that he had done nothing wrong",
+      "why": "Past perfect used to describe an action completed before another past action"
+    },
+    {
+      "translation": "Rachel me llamó esta mañana para decirme que había comprado entradas para el concierto de esta noche",
+      "answer": "Rachel called me this morning to tell me that she had bought tickets for tonight's concert",
+      "why": "Past perfect used to describe an action completed before another past action"
+    },
+    {
+      "translation": "Lucas había hecho una tortilla, así que dejamos el arroz para el día siguiente",
+      "answer": "Lucas had made an omelette, so we left the rice for the day after",
+      "why": "Past perfect used to describe an action completed before another past action"
+    },
+    {
+      "translation": "Cuando volví de Inglaterra, me di cuenta de que habían cambiado muchas cosas en mi vecindario",
+      "answer": "When I came back from England, I noticed that many things had changed in my neighborhood",
+      "why": "Past perfect used to describe an action completed before another past action"
+    },
+    {
+      "translation": "¿Cuánto tiempo llevabas encontrándote mal cuando fuiste al médico?",
+      "answer": "For how long had you been feeling ill when you went to the doctor?",
+      "why": "Past perfect continuous used in a question to ask about a repeated or continuous action before a past time"
+    },
+    {
+      "translation": "Hacía diez años que no veía a mi amiga Amina, así que me alegré mucho de encontrármela",
+      "answer": "I hadn't seen my friend Amina for ten years, so I was very happy to run into her",
+      "why": "Past perfect used to describe an action completed before another past action"
+    },
+    {
+      "translation": "No sabía qué había pasado con el coche. Me lo explicaron más tarde",
+      "answer": "I didn't know what had happened with the car. They explained it to me later",
+      "why": "Past perfect used to describe an action completed before another past action"
+    },
+    {
+      "translation": "¿Habíais trabajado juntos antes?",
+      "answer": "Had you worked together before?",
+      "why": "Past perfect used in a question to ask about a completed action before a past time"
+    },
+    {
+      "translation": "¡No me había dado cuenta de lo cerca que vivimos!",
+      "answer": "I hadn't realized how close to each other we live!",
+      "why": "Past perfect used to describe an action completed before another past action"
+    },
+    {
+      "translation": "El cliente no había recibido el email, así que lo envié de nuevo",
+      "answer": "The client hadn't received the email, so I sent it again",
+      "why": "Past perfect used to describe an action completed before another past action"
+    },
+    {
+      "translation": "¿Habían terminado los niños sus deberes a las siete?",
+      "answer": "Had the children finished their homework by seven?",
+      "why": "Past perfect used in a question to ask about a completed action before a past time"
+    },
+    {
+      "translation": "Nancy había comprado unos croissants, así que hice café y desayunamos juntas",
+      "answer": "Nancy had bought some croissants, so I made coffee and we had breakfast together",
+      "why": "Past perfect used to describe an action completed before another past action"
+    },
+    {
+      "translation": "Nunca había visto un Van Gogh en persona, así que estaba realmente impresionada",
+      "answer": "I had never seen a Van Gogh in person, so I was really impressed",
+      "why": "Past perfect used to describe an action completed before another past action"
+    },
+    {
+      "translation": "Llevaba toda la mañana limpiando la casa. Necesitaba una ducha",
+      "answer": "I had been cleaning the house all morning. I needed to take a shower",
+      "why": "Past perfect continuous used to describe a continuous action before a past time"
+    },
+    {
+      "translation": "Llevaban una hora esperando cuando el autobús llegó",
+      "answer": "They had been waiting for an hour when the bus arrived",
+      "why": "Past perfect continuous used to describe a continuous action before a past time"
+    },
+    {
+      "translation": "¿Habían estado los niños jugando en el jardín? ¡Estaban cubiertos de barro cuando los vi!",
+      "answer": "Had the kids been playing in the garden? They were covered in mud when I saw them!",
+      "why": "Past perfect continuous used in a question to ask about a continuous action before a past time"
+    },
+    {
+      "translation": "Conocí a Jessica después de que se hubiese mudado a Milán",
+      "answer": "I met Jessica after she had moved to Milan",
+      "why": "Past perfect used to describe an action completed before another past action"
+    },
+    {
+      "translation": "Steven llevaba trabajando aquí seis meses cuando tuvo el accidente",
+      "answer": "Steven had been working here for six months when he had the accident",
+      "why": "Past perfect continuous used to describe a continuous action before a past time"
+    },
+    {
+      "translation": "Klaus no pudo embarcar en el avión porque se había olvidado de su pasaporte",
+      "answer": "Klaus couldn't board his flight because he had forgotten his passport",
+      "why": "Past perfect used to describe an action completed before another past action"
+    },
+    {
+      "translation": "Llevábamos media hora buscando las llaves cuando Leah las encontró por fin en el cajón de la cocina",
+      "answer": "We had been looking for the keys for half an hour when Leah finally found them in the kitchen drawer",
+      "why": "Past perfect continuous used to describe a continuous action before a past time"
+    },
+    {
+      "translation": "Llevaba tres horas escribiendo mi artículo cuando mi jefe dijo que no lo necesitaba",
+      "answer": "I had been writing my article for three hours when my boss said he didn't need it",
+      "why": "Past perfect continuous used to describe a continuous action before a past time"
+    },
+    {
+      "translation": "No fuimos al cine porque Andrea había comprado entradas para el teatro",
+      "answer": "We didn't go to the cinema because Andrea had bought tickets for the theatre",
+      "why": "Past perfect used to describe an action completed before another past action"
+    },
+    {
+      "translation": "Los clientes llevaban sentados en la sala de reuniones mucho rato cuando el director por fin apareció",
+      "answer": "The clients had been sitting in the meeting room for a long time when the director finally showed up",
+      "why": "Past perfect continuous used to describe a continuous action before a past time"
+    },
+    {
+      "translation": "Pensaba que había comprado tomates, pero luego me di cuenta de que no lo había hecho",
+      "answer": "I thought I had bought some tomatoes, but then I realized I hadn't",
+      "why": "Past perfect used to describe an action completed before another past action"
+    },
+    {
+      "translation": "Llevábamos seis meses seguidos trabajando muy duro, así que necesitábamos un par de semanas libres",
+      "answer": "We had been working very hard for six months straight, so we needed a couple of weeks off",
+      "why": "Past perfect continuous used to describe a continuous action before a past time"
+    },
+    {
+      "translation": "¿Por qué teníais las caras tan sucias? – Habíamos estado comiendo chocolate…",
+      "answer": "Why were your faces so dirty? – We had been eating chocolate…",
+      "why": "Past perfect continuous used in a question to ask about a continuous action before a past time"
+    },
+    {
+      "translation": "Había estado pensando en teñirme el pelo de rubio antes de decidir cortármelo corto",
+      "answer": "I had been thinking of dyeing my hair blonde before I decided to cut it short",
+      "why": "Past perfect continuous used to describe a continuous action before a past time"
+    },
+    {
+      "translation": "Charlotte llevaba un año trabajando en su primera exposición en solitario. Estaba muy ilusionada en la inauguración ayer",
+      "answer": "Charlotte had been working on her first solo exhibition for a year. She was very excited at the opening yesterday",
+      "why": "Past perfect continuous used to describe a continuous action before a past time"
+    },
+    {
+      "translation": "Nunca había estado en Londres antes, así que no sabía cómo ir a la Plaza de Trafalgar",
+      "answer": "I had never been in London before, so I didn't know how to go to Trafalgar Square",
+      "why": "Past perfect used to describe an action completed before another past action"
+    },
+    {
+      "translation": "Marnie había estado leyendo toda la noche. Por eso tenía tanto sueño",
+      "answer": "Marnie had been reading all night. That's why she was so sleepy",
+      "why": "Past perfect continuous used to describe a continuous action before a past time"
+    },
+    {
+      "translation": "Llevábamos dos años viviendo en Sevilla cuando nos mudamos a Palma",
+      "answer": "We had been living in Seville for two years when we moved to Palma",
+      "why": "Past perfect continuous used to describe a continuous action before a past time"
+    },
+    {
+      "translation": "Noel había estado un año practicando cuando participó en su primer torneo de golf",
+      "answer": "Noel had been practicing for a year when he participated in his first golf tournament",
+      "why": "Past perfect continuous used to describe a continuous action before a past time"
+    },
+    {
+      "translation": "No había oído tu pregunta. Por eso no respondí",
+      "answer": "I hadn't heard your question. That's why I didn't answer",
+      "why": "Past perfect used to describe an action completed before another past action"
+    },
+    {
+      "translation": "Mary no podía leer los subtítulos porque no había traído sus gafas",
+      "answer": "Mary couldn't read the subtitles because she hadn't brought her glasses",
+      "why": "Past perfect used to describe an action completed before another past action"
+    },
+    {
+      "translation": "¿Habías estado pintando en el suelo? ¡Había pintura por todas partes!",
+      "answer": "Had you been painting on the floor? There was paint everywhere!",
+      "why": "Past perfect continuous used in a question to ask about a continuous action before a past time"
+    },
+    {
+      "translation": "Llevaba dos horas haciendo la cena cuando mis invitados llamaron para decir que no podían venir",
+      "answer": "I had been cooking dinner for two hours when my guests called to say they couldn't come",
+      "why": "Past perfect continuous used to describe a continuous action before a past time"
+    },
+    {
+      "translation": "Cogí un resfriado porque había estado jugando al fútbol bajo la lluvia",
+      "answer": "I caught a cold because I had been playing football under the rain",
+      "why": "Past perfect continuous used to describe a continuous action before a past time"
+    },
+    {
+      "translation": "Ya había terminado su tarea antes de que sus amigos vinieran a visitar",
+      "answer": "She had already finished her homework before her friends came over to visit",
+      "why": "Past perfect used to describe an action completed before another past action"
+    },
+    {
+      "translation": "Había estado estudiando durante tres horas antes de que finalmente tomara un descanso",
+      "answer": "He had been studying for three hours before he finally took a break",
+      "why": "Past perfect continuous used to describe a continuous action before a past time"
+    },
+    {
+      "translation": "¿Habías estado yendo a tus clases de inglés? – No, estaba hasta las cejas de trabajo. Por eso suspendí el examen",
+      "answer": "Had you been attending your English classes? – No, I was up to my eyes in work. That's why I failed the exam",
+      "why": "Past perfect continuous used in a question to ask about a continuous action before a past time"
+    }
+  ]
+}

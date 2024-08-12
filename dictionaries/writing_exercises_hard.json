@@ -1,0 +1,472 @@
+{
+  "sentences":[
+    {
+        "Spanish": "Si hubiera sabido que venías, habría horneado un pastel",
+        "English": "If I had known you were coming, I would have baked a cake"
+      },
+      {
+        "Spanish": "Ella insistió en posponer la reunión hasta la próxima semana",
+        "English": "She insisted on putting off the meeting until next week"
+      },
+      {
+        "Spanish": "A pesar de haber estudiado toda la noche, no aprobó el examen",
+        "English": "Despite having studied all night, he didn't pass the exam"
+      },
+      {
+        "Spanish": "Cuanto más esperes, más difícil será tomar una decisión",
+        "English": "The longer you wait, the harder it will be to make a decision"
+      },
+      {
+        "Spanish": "Después de haber vivido en Japón durante cinco años, se volvió fluido en japonés",
+        "English": "After having lived in Japan for five years, he became fluent in Japanese"
+      },
+      {
+        "Spanish": "Si no me lo hubieras recordado, me habría olvidado de la reunión",
+        "English": "If you hadn't reminded me, I would have forgotten about the meeting"
+      },
+      {
+        "Spanish": "Una vez que termines de leer el informe, dime qué piensas",
+        "English": "Once you finish reading the report, let me know what you think"
+      },
+      {
+        "Spanish": "Terminó renunciando a su trabajo y comenzando su propio negocio",
+        "English": "He ended up quitting his job and starting his own business"
+      },
+      {
+        "Spanish": "Ella ha estado posponiendo tomar una decisión sobre su futuro durante demasiado tiempo",
+        "English": "She has been putting off making a decision about her future for too long"
+      },
+      {
+        "Spanish": "Si no hubiera sido por tu ayuda, no habría podido terminar el proyecto a tiempo",
+        "English": "If it hadn't been for your help, I wouldn't have been able to finish the project on time"
+      },
+      {
+        "Spanish": "Para cuando lleguen, ya habremos comenzado la reunión",
+        "English": "By the time they arrive, we will have already started the meeting"
+      },
+      {
+        "Spanish": "Después de haber pasado años viajando, finalmente se estableció en un pequeño pueblo",
+        "English": "After having spent years traveling, he finally settled down in a small town"
+      },
+      {
+        "Spanish": "Si estuviera aquí en este momento, podría ayudarnos a resolver este problema",
+        "English": "If she were here right now, she would be able to help us resolve this issue"
+      },
+      {
+        "Spanish": "A pesar de haber sido advertido, aún siguió adelante con su plan riesgoso",
+        "English": "Despite having been warned, he still went ahead with his risky plan"
+      },
+      {
+        "Spanish": "Una vez que hayas terminado tu tarea, puedes salir afuera y jugar",
+        "English": "Once you have finished your homework, you can go outside and play"
+      },
+      {
+        "Spanish": "Estaba a punto de irse cuando sonó el teléfono",
+        "English": "He was about to leave when the phone rang"
+      },
+      {
+        "Spanish": "Si pudiera volver atrás en el tiempo, habría hecho las cosas de manera diferente",
+        "English": "If I could go back in time, I would have done things differently"
+      },
+      {
+        "Spanish": "Después de haber sido informado varias veces, finalmente entendió las instrucciones",
+        "English": "After having been told several times, he finally understood the instructions"
+      },
+      {
+        "Spanish": "Una vez que ella llegue, saldremos a cenar",
+        "English": "Once she arrives, we will go out for dinner"
+      },
+      {
+        "Spanish": "Él insiste en ser escuchado antes de que se tome cualquier decisión",
+        "English": "He insists on being heard before any decision is made"
+      },
+      {
+        "Spanish": "Si no me hubieran ofrecido el trabajo, habría solicitado en otro lugar",
+        "English": "If they hadn't offered me the job, I would have applied somewhere else"
+      },
+      {
+        "Spanish": "Si yo fuera tú, iría al médico",
+        "English": "If I were you, I would go to the doctor"
+      },
+      {
+        "Spanish": "Ella cantaría hermosamente si practicara más",
+        "English": "She would sing beautifully if she practiced more"
+      },
+      {
+        "Spanish": "Hay algunas manzanas en la mesa",
+        "English": "There are some apples on the table"
+      },
+      {
+        "Spanish": "Había demasiado tráfico en el camino al trabajo",
+        "English": "There was too much traffic on the way to work"
+      },
+      {
+        "Spanish": "Estas galletas son mejores que esas",
+        "English": "These cookies are better than those"
+      },
+      {
+        "Spanish": "Su carro está estacionado allí",
+        "English": "Their car is parked over there"
+      },
+      {
+        "Spanish": "No debería comer demasiados dulces",
+        "English": "He shouldn't eat too many sweets"
+      },
+      {
+        "Spanish": "Ella habló suavemente al niño",
+        "English": "She spoke softly to the child"
+      },
+      {
+        "Spanish": "John caminó lentamente para evitar resbalarse en el hielo",
+        "English": "John walked slowly to avoid slipping on the ice"
+      },
+      {
+        "Spanish": "Limpia tu habitación antes de salir",
+        "English": "Clean your room before you go out"
+      },
+      {
+        "Spanish": "Creo que él viene mañana",
+        "English": "I believe that he is coming tomorrow"
+      },
+      {
+        "Spanish": "Sugerí que ella estudie más para el examen",
+        "English": "I suggested that she study harder for the exam"
+      },
+      {
+        "Spanish": "Ella podía nadar a través del lago cuando era más joven",
+        "English": "She could swim across the lake when she was younger"
+      },
+      {
+        "Spanish": "El perro olió la comida desde el otro lado de la habitación",
+        "English": "The dog smelled the food from across the room"
+      },
+      {
+        "Spanish": "Jack corre más rápido que Jill",
+        "English": "Jack runs faster than Jill"
+      },
+      {
+        "Spanish": "Este es el pastel más delicioso que he probado",
+        "English": "This is the most delicious cake I have ever tasted"
+      },
+      {
+        "Spanish": "Él me entregó el libro",
+        "English": "He handed me the book"
+      },
+      {
+        "Spanish": "¿Es este tu bolígrafo?",
+        "English": "Is this your pen?"
+      },
+      {
+        "Spanish": "Es importante que ellos estén aquí a tiempo",
+        "English": "It is important that they be here on time"
+      },
+      {
+        "Spanish": "Si nos vamos ahora, alcanzaremos el tren",
+        "English": "If we leave now, we will catch the train"
+      },
+      {
+        "Spanish": "Había diez personas en la reunión de ayer",
+        "English": "There were ten people at the meeting yesterday"
+      },
+      {
+        "Spanish": "Quiero un poco de queso con mi sándwich",
+        "English": "I want some cheese with my sandwich"
+      },
+      {
+        "Spanish": "Hay demasiados autos en la carretera hoy",
+        "English": "There are too many cars on the road today"
+      },
+      {
+        "Spanish": "¡Mira ese hermoso atardecer!",
+        "English": "Look at that beautiful sunset!"
+      },
+      {
+        "Spanish": "Ellos van a la casa de su amigo",
+        "English": "They're going to their friend's house"
+      },
+      {
+        "Spanish": "Ella tiene demasiado trabajo que hacer hoy",
+        "English": "She has too much work to do today"
+      },
+      {
+        "Spanish": "Él habría terminado el proyecto si tuviera más tiempo",
+        "English": "He would have finished the project if he had more time"
+      },
+      {
+        "Spanish": "Hay un artículo interesante en el periódico",
+        "English": "There is an interesting article in the newspaper"
+      },
+      {
+        "Spanish": "Ella es más alta que su hermana",
+        "English": "She is taller than her sister"
+      },
+      {
+        "Spanish": "Estos zapatos son más cómodos que esos",
+        "English": "These shoes are more comfortable than those"
+      },
+      {
+        "Spanish": "Esa fue la película más emocionante que he visto en todo el año",
+        "English": "That was the most exciting movie I've seen all year"
+      },
+      {
+        "Spanish": "Su auto está estacionado allí",
+        "English": "His car is parked over there"
+      },
+      {
+        "Spanish": "Te habría llamado si tuviera tu número",
+        "English": "She would have called you if she had your number"
+      },
+      {
+        "Spanish": "Por favor, escriba su nombre en este formulario",
+        "English": "Please write your name on this form"
+      },
+      {
+        "Spanish": "¿Puedes ayudarme con mi tarea?",
+        "English": "Can you help me with my homework?"
+      },
+      {
+        "Spanish": "Ella está llegando mañana",
+        "English": "She is arriving tomorrow"
+      },
+      {
+        "Spanish": "Espero que él venga a la fiesta",
+        "English": "I hope that he comes to the party"
+      },
+      {
+        "Spanish": "No quedaban sillas en la habitación",
+        "English": "There were no chairs left in the room"
+      },
+      {
+        "Spanish": "Quería comprar algo de fruta en el mercado",
+        "English": "He wanted to buy some fruit at the market"
+      },
+      {
+        "Spanish": "Hay demasiados estudiantes en el salón de clases",
+        "English": "There are too many students in the classroom"
+      },
+      {
+        "Spanish": "No me gusta esta película; aquella es mejor",
+        "English": "I don't like this movie; that one is better"
+      },
+      {
+        "Spanish": "Ella tiene su propio carro",
+        "English": "She has her own car"
+      },
+      {
+        "Spanish": "Deberías visitar a tus abuelos más seguido",
+        "English": "You should visit your grandparents more often"
+      },
+      {
+        "Spanish": "Él siempre come la cena rápidamente",
+        "English": "He always eats dinner quickly"
+      },
+      {
+        "Spanish": "Saca la basura antes de irte a la cama",
+        "English": "Take out the trash before you go to bed"
+      },
+      {
+        "Spanish": "Ella cree que él pasará el examen",
+        "English": "She believes that he will pass the test"
+      },
+      {
+        "Spanish": "Es crucial que ellos lleguen a tiempo",
+        "English": "It is crucial that they arrive on time"
+      },
+      {
+        "Spanish": "Si estuviera más cálido, iríamos a nadar",
+        "English": "If it were warmer, we would go swimming"
+      },
+      {
+        "Spanish": "Compré algunos libros nuevos en la librería",
+        "English": "I bought some new books at the bookstore"
+      },
+      {
+        "Spanish": "Hubo mucho ruido en la fiesta de anoche",
+        "English": "There was a lot of noise at the party last night"
+      },
+      {
+        "Spanish": "Estos zapatos son más elegantes que esos",
+        "English": "These shoes are more stylish than those"
+      },
+      {
+        "Spanish": "Esa fue la conferencia más interesante a la que he asistido",
+        "English": "That was the most interesting lecture I've ever attended"
+      },
+      {
+        "Spanish": "Nuestro perro se comió su comida",
+        "English": "Our dog ate their food"
+      },
+      {
+        "Spanish": "Ella habría terminado la carrera si no se hubiera caído",
+        "English": "She would have finished the race if she hadn't fallen"
+      },
+      {
+        "Spanish": "Por favor, tráeme ese libro",
+        "English": "Please bring me that book"
+      },
+      {
+        "Spanish": "Puedes irte de la fiesta temprano si quieres",
+        "English": "You can leave the party early if you want"
+      },
+      {
+        "Spanish": "Ella viene a visitarnos la próxima semana",
+        "English": "She is coming to visit us next week"
+      },
+      {
+        "Spanish": "Es necesario que él asista a la reunión",
+        "English": "It is necessary that he attend the meeting"
+      },
+      {
+        "Spanish": "Había muchas personas en el concierto de anoche",
+        "English": "There were a lot of people at the concert last night"
+      },
+      {
+        "Spanish": "Él compró una camisa nueva en la tienda",
+        "English": "He bought a new shirt at the store"
+      },
+      {
+        "Spanish": "Hay demasiada tarea que hacer esta noche",
+        "English": "There is too much homework to do tonight"
+      },
+      {
+        "Spanish": "Estos zapatos son más caros que esos",
+        "English": "These shoes are more expensive than those"
+      },
+      {
+        "Spanish": "Esa fue la comida más deliciosa que he tenido",
+        "English": "That was the most delicious meal I've ever had"
+      },
+      {
+        "Spanish": "Su bicicleta está en su garaje",
+        "English": "His bicycle is in their garage"
+      },
+      {
+        "Spanish": "Él habría ido al concierto si tuviera entradas",
+        "English": "He would have gone to the concert if he had tickets"
+      },
+      {
+        "Spanish": "Por favor, lee este libro antes de la próxima semana",
+        "English": "Please read this book before next week"
+      },
+      {
+        "Spanish": "Debes usar casco mientras conduces una motocicleta",
+        "English": "You must wear a helmet while riding a motorcycle"
+      },
+      {
+        "Spanish": "Ella está trabajando duro para terminar su proyecto",
+        "English": "She is working hard to finish her project"
+      },
+      {
+        "Spanish": "Es vital que ellos lleguen a tiempo",
+        "English": "It is vital that they arrive on time"
+      },
+      {
+        "Spanish": "Si él hubiera estudiado más, habría aprobado el examen",
+        "English": "If he had studied more, he would have passed the exam"
+      },
+      {
+        "Spanish": "Compré un libro interesante en la librería",
+        "English": "I bought an interesting book at the bookstore"
+      },
+      {
+        "Spanish": "Hubo mucha emoción en el juego de anoche",
+        "English": "There was a lot of excitement at the game last night"
+      },
+      {
+        "Spanish": "Estos pantalones son más cómodos que esos",
+        "English": "These pants are more comfortable than those"
+      },
+      {
+        "Spanish": "Ese fue el rompecabezas más desafiante que he resuelto",
+        "English": "That was the most challenging puzzle I've ever solved"
+      },
+      {
+        "Spanish": "Nuestro perro se comió su cena",
+        "English": "Our dog ate their dinner"
+      },
+      {
+        "Spanish": "Si me hubieras llamado, te habría ayudado",
+        "English": "If you had called me, I would have helped you"
+      },
+      {
+        "Spanish": "Por favor, dame ese documento",
+        "English": "Please give me that document"
+      },
+      {
+        "Spanish": "Puedes irte de la fiesta temprano si necesitas",
+        "English": "You may leave the party early if you need to"
+      },
+      {
+        "Spanish": "Ella vuelve a casa mañana",
+        "English": "She is coming home tomorrow"
+      },
+      {
+        "Spanish": "Es importante que él llegue a tiempo",
+        "English": "It is important that he arrive on time"
+      },
+      {
+        "Spanish": "Si estuviera más frío, habríamos encendido una fogata",
+        "English": "If it were colder, we would have built a fire"
+      },
+      {
+        "Spanish": "Ella compró un vestido nuevo en el centro comercial",
+        "English": "She bought a new dress at the mall"
+      },
+      {
+        "Spanish": "Hay demasiado ruido en esta habitación",
+        "English": "There is too much noise in this room"
+      },
+      {
+        "Spanish": "Estas galletas son más deliciosas que esas",
+        "English": "These cookies are more delicious than those"
+      },
+      {
+        "Spanish": "Esa fue la presentación más impresionante que he visto",
+        "English": "That was the most impressive performance I've ever seen"
+      },
+      {
+        "Spanish": "Su carro está en su entrada",
+        "English": "Her car is in their driveway"
+      },
+      {
+        "Spanish": "Si hubiera salido más temprano, no habría perdido el tren",
+        "English": "If he had left earlier, he wouldn't have missed the train"
+      },
+      {
+        "Spanish": "Por favor, dame este libro",
+        "English": "Please give me this book"
+      },
+      {
+        "Spanish": "Quizás quieras traer un paraguas",
+        "English": "You might want to bring an umbrella"
+      },
+      {
+        "Spanish": "Ella está trabajando en su presentación",
+        "English": "She is working on her presentation"
+      },
+      {
+        "Spanish": "Es necesario que él termine el informe hoy",
+        "English": "It is necessary that he finish the report today"
+      },
+      {
+        "Spanish": "Si estuviera más tranquilo, podría concentrarme mejor",
+        "English": "If it were quieter, I could concentrate better"
+      },
+      {
+        "English": "To such an extent",
+        "Spanish": "A tal punto"
+      },
+      {
+        "English": "They appear to be blessed",
+        "Spanish": "Parecen estar bendecidos"
+      },
+      {
+        "English": "To a degree that even exceeds that person's insight into themselves",
+        "Spanish": "A un grado que incluso excede la perspicacia de esa persona en sí misma"
+      },
+      {
+        "English": "Social awareness",
+        "Spanish": "Conciencia social"
+      }
+]
+}

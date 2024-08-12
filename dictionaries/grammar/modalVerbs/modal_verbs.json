@@ -1,0 +1,836 @@
+{
+  "phrases": [
+    {
+      "answer": "I can",
+      "translation": "Yo puedo"
+    },
+    {
+      "answer": "You can",
+      "translation": "Tú puedes"
+    },
+    {
+      "answer": "He can",
+      "translation": "Él puede"
+    },
+    {
+      "answer": "I could",
+      "translation": "Yo podría"
+    },
+    {
+      "answer": "You could",
+      "translation": "Tú podrías"
+    },
+    {
+      "answer": "He could",
+      "translation": "Él podría"
+    },
+    {
+      "answer": "I will be able to",
+      "translation": "Yo podré"
+    },
+    {
+      "answer": "You will be able to",
+      "translation": "Tú podrás"
+    },
+    {
+      "answer": "He will be able to",
+      "translation": "Él podrá"
+    },
+    {
+      "answer": "I may",
+      "translation": "Yo puedo"
+    },
+    {
+      "answer": "You may",
+      "translation": "Tú puedes"
+    },
+    {
+      "answer": "He may",
+      "translation": "Él puede"
+    },
+    {
+      "answer": "I might",
+      "translation": "Yo podría"
+    },
+    {
+      "answer": "You might",
+      "translation": "Tú podrías"
+    },
+    {
+      "answer": "He might",
+      "translation": "Él podría"
+    },
+    {
+      "answer": "I must",
+      "translation": "Yo debo"
+    },
+    {
+      "answer": "You must",
+      "translation": "Tú debes"
+    },
+    {
+      "answer": "He must",
+      "translation": "Él debe"
+    },
+    {
+      "answer": "I had to",
+      "translation": "Yo tuve que"
+    },
+    {
+      "answer": "You had to",
+      "translation": "Tú tuviste que"
+    },
+    {
+      "answer": "He had to",
+      "translation": "Él tuvo que"
+    },
+    {
+      "answer": "I will have to",
+      "translation": "Yo tendré que"
+    },
+    {
+      "answer": "You will have to",
+      "translation": "Tú tendrás que"
+    },
+    {
+      "answer": "He will have to",
+      "translation": "Él tendrá que"
+    },
+    {
+      "answer": "I shall",
+      "translation": "Yo deberé"
+    },
+    {
+      "answer": "You shall",
+      "translation": "Tú deberás"
+    },
+    {
+      "answer": "He shall",
+      "translation": "Él deberá"
+    },
+    {
+      "answer": "I should",
+      "translation": "Yo debería"
+    },
+    {
+      "answer": "You should",
+      "translation": "Tú deberías"
+    },
+    {
+      "answer": "He should",
+      "translation": "Él debería"
+    },
+    {
+      "answer": "I will",
+      "translation": "Yo voy a"
+    },
+    {
+      "answer": "You will",
+      "translation": "Tú vas a"
+    },
+    {
+      "answer": "He will",
+      "translation": "Él va a"
+    },
+    {
+      "answer": "I would",
+      "translation": "Yo haría"
+    },
+    {
+      "answer": "You would",
+      "translation": "Tú harías"
+    },
+    {
+      "answer": "He would",
+      "translation": "Él haría"
+    },
+    {
+      "answer": "I should have",
+      "translation": "Yo debería haber"
+    },
+    {
+      "answer": "You should have",
+      "translation": "Tú deberías haber"
+    },
+    {
+      "answer": "He should have",
+      "translation": "Él debería haber"
+    },
+    {
+      "answer": "I might have",
+      "translation": "Yo podría haber"
+    },
+    {
+      "answer": "You might have",
+      "translation": "Tú podrías haber"
+    },
+    {
+      "answer": "He might have",
+      "translation": "Él podría haber"
+    },
+    {
+      "answer": "I do",
+      "translation": "Yo hago"
+    },
+    {
+      "answer": "You do",
+      "translation": "Tú haces"
+    },
+    {
+      "answer": "He does",
+      "translation": "Él hace"
+    },
+    {
+      "answer": "I don't",
+      "translation": "Yo no hago"
+    },
+    {
+      "answer": "You don't",
+      "translation": "Tú no haces"
+    },
+    {
+      "answer": "He doesn't",
+      "translation": "Él no hace"
+    },
+    {
+      "answer": "I do",
+      "translation": "Yo hago"
+    },
+    {
+      "answer": "You do",
+      "translation": "Tú haces"
+    },
+    {
+      "answer": "He does",
+      "translation": "Él hace"
+    },
+    {
+      "answer": "I don't",
+      "translation": "Yo no hago"
+    },
+    {
+      "answer": "You don't",
+      "translation": "Tú no haces"
+    },
+    {
+      "answer": "He doesn't",
+      "translation": "Él no hace"
+    },
+    {
+      "answer": "I did",
+      "translation": "Yo hice"
+    },
+    {
+      "answer": "You did",
+      "translation": "Tú hiciste"
+    },
+    {
+      "answer": "He did",
+      "translation": "Él hizo"
+    },
+    {
+      "answer": "I didn't",
+      "translation": "Yo no hice"
+    },
+    {
+      "answer": "You didn't",
+      "translation": "Tú no hiciste"
+    },
+    {
+      "answer": "He didn't",
+      "translation": "Él no hizo"
+    },
+    {
+      "answer": "I have",
+      "translation": "Yo tengo"
+    },
+    {
+      "answer": "You have",
+      "translation": "Tú tienes"
+    },
+    {
+      "answer": "He has",
+      "translation": "Él tiene"
+    },
+    {
+      "answer": "I haven't",
+      "translation": "Yo no tengo"
+    },
+    {
+      "answer": "You haven't",
+      "translation": "Tú no tienes"
+    },
+    {
+      "answer": "He hasn't",
+      "translation": "Él no tiene"
+    },
+    {
+      "answer": "I had",
+      "translation": "Yo tuve"
+    },
+    {
+      "answer": "You had",
+      "translation": "Tú tuviste"
+    },
+    {
+      "answer": "He had",
+      "translation": "Él tuvo"
+    },
+    {
+      "answer": "I hadn't",
+      "translation": "Yo no tuve"
+    },
+    {
+      "answer": "You hadn't",
+      "translation": "Tú no tuviste"
+    },
+    {
+      "answer": "He hadn't",
+      "translation": "Él no tuvo"
+    },
+    {
+      "answer": "He can swim",
+      "translation": "Él puede nadar"
+    },
+    {
+      "answer": "She can't sing",
+      "translation": "Ella no puede cantar"
+    },
+    {
+      "answer": "They could help",
+      "translation": "Ellos podrían ayudar"
+    },
+    {
+      "answer": "We couldn't find it",
+      "translation": "No pudimos encontrarlo"
+    },
+    {
+      "answer": "He will arrive tomorrow",
+      "translation": "Él llegará mañana"
+    },
+    {
+      "answer": "She won't join us",
+      "translation": "Ella no se unirá a nosotros"
+    },
+    {
+      "answer": "They have a meeting",
+      "translation": "Ellos tienen una reunión"
+    },
+    {
+      "answer": "We had lunch",
+      "translation": "Nosotros almorzamos"
+    },
+    {
+      "answer": "It may rain later",
+      "translation": "Puede que llueva más tarde"
+    },
+    {
+      "answer": "He might come",
+      "translation": "Él podría venir"
+    },
+    {
+      "answer": "You must study",
+      "translation": "Debes estudiar"
+    },
+    {
+      "answer": "I shall return",
+      "translation": "Regresaré"
+    },
+    {
+      "answer": "They should call",
+      "translation": "Ellos deberían llamar"
+    },
+    {
+      "answer": "We would go",
+      "translation": "Iríamos"
+    },
+    {
+      "answer": "She does not understand",
+      "translation": "Ella no entiende"
+    },
+    {
+      "answer": "He does not like it",
+      "translation": "Él no le gusta"
+    },
+    {
+      "answer": "Were you at home?",
+      "translation": "¿Estabas en casa?"
+    },
+    {
+      "answer": "Was she there?",
+      "translation": "¿Estaba ella allí?"
+    },
+    {
+      "answer": "There were many people",
+      "translation": "Había muchas personas"
+    },
+    {
+      "answer": "There was a car",
+      "translation": "Había un coche"
+    },
+    {
+      "answer": "Did you see that?",
+      "translation": "¿Viste eso?"
+    },
+    {
+      "answer": "He didn't call",
+      "translation": "Él no llamó"
+    },
+    {
+      "answer": "I haven't finished",
+      "translation": "No he terminado"
+    },
+    {
+      "answer": "She has a new book",
+      "translation": "Ella tiene un libro nuevo"
+    },
+    {
+      "answer": "They have been waiting",
+      "translation": "Ellos han estado esperando"
+    },
+    {
+      "answer": "We had been there",
+      "translation": "Habíamos estado allí"
+    },
+    {
+      "answer": "He has finished",
+      "translation": "Él ha terminado"
+    },
+    {
+      "answer": "She hasn't called",
+      "translation": "Ella no ha llamado"
+    },
+    {
+      "answer": "Do you want coffee?",
+      "translation": "¿Quieres café?"
+    },
+    {
+      "answer": "Does she like it?",
+      "translation": "¿Le gusta a ella?"
+    },
+    {
+      "answer": "Did they come?",
+      "translation": "¿Vinieron ellos?"
+    },
+    {
+      "answer": "Didn't you see that?",
+      "translation": "¿No viste eso?"
+    },
+    {
+      "answer": "Have you finished?",
+      "translation": "¿Has terminado?"
+    },
+    {
+      "answer": "Had he left?",
+      "translation": "¿Se había ido él?"
+    },
+    {
+      "answer": "Has she called?",
+      "translation": "¿Ha llamado ella?"
+    },
+    {
+      "answer": "Have they been there?",
+      "translation": "¿Han estado allí?"
+    },
+    {
+      "answer": "Had you been waiting?",
+      "translation": "¿Habías estado esperando?"
+    },
+    {
+      "answer": "He will have finished",
+      "translation": "Él habrá terminado"
+    },
+    {
+      "answer": "She won't have finished",
+      "translation": "Ella no habrá terminado"
+    },
+    {
+      "answer": "They would have finished",
+      "translation": "Ellos habrían terminado"
+    },
+    {
+      "answer": "We could have finished",
+      "translation": "Podríamos haber terminado"
+    },
+    {
+      "answer": "He should have finished",
+      "translation": "Él debería haber terminado"
+    },
+    {
+      "answer": "She might have finished",
+      "translation": "Ella podría haber terminado"
+    },
+    {
+      "answer": "They may have finished",
+      "translation": "Ellos pueden haber terminado"
+    },
+    {
+      "answer": "You must have finished",
+      "translation": "Debes haber terminado"
+    },
+    {
+      "answer": "I would have finished",
+      "translation": "Habría terminado"
+    },
+    {
+      "answer": "He can swim",
+      "translation": "Él puede nadar"
+    },
+    {
+      "answer": "She can't sing",
+      "translation": "Ella no puede cantar"
+    },
+    {
+      "answer": "They could help",
+      "translation": "Ellos podrían ayudar"
+    },
+    {
+      "answer": "We couldn't find it",
+      "translation": "No pudimos encontrarlo"
+    },
+    {
+      "answer": "He will arrive tomorrow",
+      "translation": "Él llegará mañana"
+    },
+    {
+      "answer": "She won't join us",
+      "translation": "Ella no se unirá a nosotros"
+    },
+    {
+      "answer": "They have a meeting",
+      "translation": "Ellos tienen una reunión"
+    },
+    {
+      "answer": "We had lunch",
+      "translation": "Nosotros almorzamos"
+    },
+    {
+      "answer": "It may rain later",
+      "translation": "Puede que llueva más tarde"
+    },
+    {
+      "answer": "He might come",
+      "translation": "Él podría venir"
+    },
+    {
+      "answer": "You must study",
+      "translation": "Debes estudiar"
+    },
+    {
+      "answer": "I shall return",
+      "translation": "Regresaré"
+    },
+    {
+      "answer": "They should call",
+      "translation": "Ellos deberían llamar"
+    },
+    {
+      "answer": "We would go",
+      "translation": "Iríamos"
+    },
+    {
+      "answer": "She does not understand",
+      "translation": "Ella no entiende"
+    },
+    {
+      "answer": "He does not like it",
+      "translation": "Él no le gusta"
+    },
+    {
+      "answer": "Were you at home?",
+      "translation": "¿Estabas en casa?"
+    },
+    {
+      "answer": "Was she there?",
+      "translation": "¿Estaba ella allí?"
+    },
+    {
+      "answer": "There were many people",
+      "translation": "Había muchas personas"
+    },
+    {
+      "answer": "There was a car",
+      "translation": "Había un coche"
+    },
+    {
+      "answer": "Did you see that?",
+      "translation": "¿Viste eso?"
+    },
+    {
+      "answer": "He didn't call",
+      "translation": "Él no llamó"
+    },
+    {
+      "answer": "I haven't finished",
+      "translation": "No he terminado"
+    },
+    {
+      "answer": "She has a new book",
+      "translation": "Ella tiene un libro nuevo"
+    },
+    {
+      "answer": "They have been waiting",
+      "translation": "Ellos han estado esperando"
+    },
+    {
+      "answer": "We had been there",
+      "translation": "Habíamos estado allí"
+    },
+    {
+      "answer": "He has finished",
+      "translation": "Él ha terminado"
+    },
+    {
+      "answer": "She hasn't called",
+      "translation": "Ella no ha llamado"
+    },
+    {
+      "answer": "You are finishing",
+      "translation": "Estás terminando"
+    },
+    {
+      "answer": "You were finishing",
+      "translation": "Estabas terminando"
+    },
+    {
+      "answer": "You have finished",
+      "translation": "Has terminado"
+    },
+    {
+      "answer": "You had finished",
+      "translation": "Habías terminado"
+    },
+    {
+      "answer": "You will finish",
+      "translation": "Terminarás"
+    },
+    {
+      "answer": "You will have finished",
+      "translation": "Habrás terminado"
+    },
+    {
+      "answer": "You are being finished",
+      "translation": "Estás siendo terminado"
+    },
+    {
+      "answer": "You were being finished",
+      "translation": "Estabas siendo terminado"
+    },
+    {
+      "answer": "You have been finished",
+      "translation": "Has sido terminado"
+    },
+    {
+      "answer": "You had been finished",
+      "translation": "Habías sido terminado"
+    },
+    {
+      "answer": "You will have been finished",
+      "translation": "Habrás sido terminado"
+    },
+    {
+      "answer": "You are going to finish",
+      "translation": "Vas a terminar"
+    },
+    {
+      "answer": "You were going to finish",
+      "translation": "Ibas a terminar"
+    },
+    {
+      "answer": "You will be finishing",
+      "translation": "Estarás terminando"
+    },
+    {
+      "answer": "You would be finishing",
+      "translation": "Estarías terminando"
+    },
+    {
+      "answer": "Have you finished?",
+      "translation": "¿Has terminado?"
+    },
+    {
+      "answer": "Had you finished?",
+      "translation": "¿Habías terminado?"
+    },
+    {
+      "answer": "Will you finish?",
+      "translation": "¿Terminarás?"
+    },
+    {
+      "answer": "Will you have finished?",
+      "translation": "¿Habrás terminado?"
+    },
+    {
+      "answer": "Are you finishing?",
+      "translation": "¿Estás terminando?"
+    },
+    {
+      "answer": "Were you finishing?",
+      "translation": "¿Estabas terminando?"
+    },
+    {
+      "answer": "You can finish",
+      "translation": "Puedes terminar"
+    },
+    {
+      "answer": "You could finish",
+      "translation": "Podrías terminar"
+    },
+    {
+      "answer": "You may finish",
+      "translation": "Puedes terminar (posibilidad)"
+    },
+    {
+      "answer": "You might finish",
+      "translation": "Podrías terminar (posibilidad)"
+    },
+    {
+      "answer": "You must finish",
+      "translation": "Debes terminar"
+    },
+    {
+      "answer": "You should finish",
+      "translation": "Deberías terminar"
+    },
+    {
+      "answer": "You ought to finish",
+      "translation": "Deberías terminar"
+    },
+    {
+      "answer": "You will finish",
+      "translation": "Terminarás"
+    },
+    {
+      "answer": "You would finish",
+      "translation": "Terminarías"
+    },
+    {
+      "answer": "You could have finished",
+      "translation": "Podrías haber terminado"
+    },
+    {
+      "answer": "You may have finished",
+      "translation": "Puedes haber terminado"
+    },
+    {
+      "answer": "You might have finished",
+      "translation": "Podrías haber terminado"
+    },
+    {
+      "answer": "You must have finished",
+      "translation": "Debes haber terminado"
+    },
+    {
+      "answer": "You should have finished",
+      "translation": "Deberías haber terminado"
+    },
+    {
+      "answer": "You ought to have finished",
+      "translation": "Deberías haber terminado"
+    },
+    {
+      "answer": "You can be finishing",
+      "translation": "Puedes estar terminando"
+    },
+    {
+      "answer": "You could be finishing",
+      "translation": "Podrías estar terminando"
+    },
+    {
+      "answer": "You may be finishing",
+      "translation": "Puedes estar terminando (posibilidad)"
+    },
+    {
+      "answer": "You might be finishing",
+      "translation": "Podrías estar terminando (posibilidad)"
+    },
+    {
+      "answer": "You must be finishing",
+      "translation": "Debes estar terminando"
+    },
+    {
+      "answer": "You should be finishing",
+      "translation": "Deberías estar terminando"
+    },
+    {
+      "answer": "You ought to be finishing",
+      "translation": "Deberías estar terminando"
+    },
+    {
+      "answer": "You will finish",
+      "translation": "Terminarás"
+    },
+    {
+      "answer": "You would finish",
+      "translation": "Terminarías"
+    },
+    {
+      "answer": "You have finished",
+      "translation": "Has terminado"
+    },
+    {
+      "answer": "You had finished",
+      "translation": "Habías terminado"
+    },
+    {
+      "answer": "You will have finished",
+      "translation": "Habrás terminado"
+    },
+    {
+      "answer": "You are finishing",
+      "translation": "Estás terminando"
+    },
+    {
+      "answer": "You were finishing",
+      "translation": "Estabas terminando"
+    },
+    {
+      "answer": "You have been finishing",
+      "translation": "Has estado terminando"
+    },
+    {
+      "answer": "You had been finishing",
+      "translation": "Habías estado terminando"
+    },
+    {
+      "answer": "You will have been finishing",
+      "translation": "Habrás estado terminando"
+    },
+    {
+      "answer": "You leave",
+      "translation": "Dejas"
+    },
+    {
+      "answer": "You left",
+      "translation": "Dejaste"
+    },
+    {
+      "answer": "You will leave",
+      "translation": "Dejarás"
+    },
+    {
+      "answer": "You would leave",
+      "translation": "Dejarías"
+    },
+    {
+      "answer": "There was",
+      "translation": "Hubo"
+    },
+    {
+      "answer": "You are",
+      "translation": "Eres"
+    },
+    {
+      "answer": "You were",
+      "translation": "Eras"
+    },
+    {
+      "answer": "You will be",
+      "translation": "Serás"
+    },
+    {
+      "answer": "You would be",
+      "translation": "Serías"
+    }
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "phrases": [
+    {
+      "answer": "I have never been to Thailand",
+      "translation": "Nunca he estado en Tailandia",
+      "why": "Present perfect used to express an action that started in the past and continues to the present (negative form)"
+    },
+    {
+      "answer": "I have finished all my tasks",
+      "translation": "He terminado todas mis tareas",
+      "why": "Present perfect used to express an action that started in the past and is completed at the time of speaking"
+    },
+    {
+      "answer": "He has come back",
+      "translation": "Él ha regresado",
+      "why": "Present perfect used to express an action that happened at an unspecified time before now"
+    },
+    {
+      "answer": "We have never seen him again",
+      "translation": "No lo hemos vuelto a ver",
+      "why": "Present perfect used to express an action that started in the past and continues to the present (negative form)"
+    },
+    {
+      "answer": "A woman has called for you",
+      "translation": "Una mujer te ha llamado",
+      "why": "Present perfect used to express an action that happened at an unspecified time before now"
+    },
+    {
+      "answer": "I have already had breakfast",
+      "translation": "Ya he desayunado",
+      "why": "Present perfect used to express an action that happened at an unspecified time before now"
+    },
+    {
+      "answer": "Somebody has knocked at the door",
+      "translation": "Alguien ha llamado a la puerta",
+      "why": "Present perfect used to express an action that happened at an unspecified time before now"
+    },
+    {
+      "answer": "Have you ever met anybody famous?",
+      "translation": "¿Alguna vez has conocido a alguien famoso?",
+      "why": "Present perfect used in a question to ask about experiences up to the present"
+    },
+    {
+      "answer": "The program has shut down",
+      "translation": "El programa se ha cerrado",
+      "why": "Present perfect used to express an action that happened at an unspecified time before now"
+    },
+    {
+      "answer": "I have broken the vase",
+      "translation": "He roto el jarrón",
+      "why": "Present perfect used to express an action that happened at an unspecified time before now"
+    },
+    {
+      "answer": "Has anybody left a message for me?",
+      "translation": "¿Alguien ha dejado un mensaje para mí?",
+      "why": "Present perfect used in a question to ask about actions that happened at an unspecified time before now"
+    },
+    {
+      "answer": "The train has departed",
+      "translation": "El tren ha partido",
+      "why": "Present perfect used to express an action that happened at an unspecified time before now"
+    },
+    {
+      "answer": "What have I done?",
+      "translation": "¿Qué he hecho?",
+      "why": "Present perfect used in a question to ask about actions that happened at an unspecified time before now"
+    },
+    {
+      "answer": "Have you seen my keys?",
+      "translation": "¿Has visto mis llaves?",
+      "why": "Present perfect used in a question to ask about actions that happened at an unspecified time before now"
+    },
+    {
+      "answer": "The movie has already started",
+      "translation": "La película ya ha comenzado",
+      "why": "Present perfect used to express an action that happened at an unspecified time before now"
+    },
+    {
+      "answer": "The teacher hasn't arrived yet",
+      "translation": "La profesora no ha llegado todavía",
+      "why": "Present perfect used to express an action that started in the past and continues to the present (negative form)"
+    },
+    {
+      "answer": "I haven't taken my medicine today",
+      "translation": "Hoy no he tomado mi medicina",
+      "why": "Present perfect used to express an action that started in the past and continues to the present (negative form)"
+    },
+    {
+      "answer": "The children have gone to bed",
+      "translation": "Los niños se han ido a dormir",
+      "why": "Present perfect used to express an action that happened at an unspecified time before now"
+    },
+    {
+      "answer": "How long have you had that headache?",
+      "translation": "¿Hace cuánto que tienes esa jaqueca?",
+      "why": "Present perfect used in a question to ask about actions that started in the past and continue to the present"
+    },
+    {
+      "answer": "We have known each other for a long time",
+      "translation": "Nos conocemos desde hace mucho tiempo",
+      "why": "Present perfect used to express an action that started in the past and continues to the present"
+    },
+    {
+      "answer": "I haven't studied for the exam yet",
+      "translation": "No he estudiado para el examen todavía",
+      "why": "Present perfect used to express an action that started in the past and continues to the present (negative form)"
+    },
+    {
+      "answer": "They have traveled around the world",
+      "translation": "Ellos han viajado alrededor del mundo",
+      "why": "Present perfect used to express an action that happened at an unspecified time before now"
+    },
+    {
+      "answer": "We haven't had any problems so far",
+      "translation": "No hemos tenido ningún problema hasta ahora",
+      "why": "Present perfect used to express an action that started in the past and continues to the present (negative form)"
+    },
+    {
+      "answer": "Have you found your car keys?",
+      "translation": "¿Has encontrado las llaves de tu automóvil?",
+      "why": "Present perfect used in a question to ask about actions that happened at an unspecified time before now"
+    },
+    {
+      "answer": "I have been listening to the radio all morning",
+      "translation": "He estado escuchando la radio toda la mañana",
+      "why": "Present perfect continuous used to describe a continuous action that started in the past and continues to the present"
+    },
+    {
+      "answer": "That dog has been barking since 2 a.m",
+      "translation": "Ese perro ha estado ladrando desde las 2 a. m",
+      "why": "Present perfect continuous used to describe a continuous action that started in the past and continues to the present"
+    },
+    {
+      "answer": "How long have you been living in New York?",
+      "translation": "¿Cuánto tiempo has estado viviendo en Nueva York?",
+      "why": "Present perfect continuous used in a question to ask about a continuous action that started in the past and continues to the present"
+    },
+    {
+      "answer": "They have been seeing each other a lot recently",
+      "translation": "Se han estado viendo mucho últimamente",
+      "why": "Present perfect continuous used to describe a continuous action that started in the past and continues to the present"
+    },
+    {
+      "answer": "Joyce has been working out a lot",
+      "translation": "Joyce ha estado entrenando mucho",
+      "why": "Present perfect continuous used to describe a continuous action that started in the past and continues to the present"
+    },
+    {
+      "answer": "I have been reading a lot about the author",
+      "translation": "He estado leyendo mucho sobre el autor",
+      "why": "Present perfect continuous used to describe a continuous action that started in the past and continues to the present"
+    },
+    {
+      "answer": "You haven't been drinking enough water",
+      "translation": "No has estado bebiendo suficiente agua",
+      "why": "Present perfect continuous used to describe a continuous action that started in the past and continues to the present (negative form)"
+    },
+    {
+      "answer": "We've been having issues with this app lately",
+      "translation": "Hemos estado teniendo problemas con esta aplicación últimamente",
+      "why": "Present perfect continuous used to describe a continuous action that started in the past and continues to the present"
+    },
+    {
+      "answer": "He's been writing poetry since he was a child",
+      "translation": "Él ha estado escribiendo poesía desde que era un niño",
+      "why": "Present perfect continuous used to describe a continuous action that started in the past and continues to the present"
+    },
+    {
+      "answer": "I've been working non-stop since early morning",
+      "translation": "He estado trabajando sin parar desde la mañana temprano",
+      "why": "Present perfect continuous used to describe a continuous action that started in the past and continues to the present"
+    },
+    {
+      "answer": "Mark has been getting to know Jenny",
+      "translation": "Mark se ha estado empezando a conocer con Jenny",
+      "why": "Present perfect continuous used to describe a continuous action that started in the past and continues to the present"
+    },
+    {
+      "answer": "He's been having second thoughts about the job offer",
+      "translation": "Él ha estado teniendo dudas sobre la oferta de trabajo",
+      "why": "Present perfect continuous used to describe a continuous action that started in the past and continues to the present"
+    },
+    {
+      "answer": "The students have been trying to solve the problem for an hour",
+      "translation": "Los estudiantes han estado tratando de resolver el problema durante una hora",
+      "why": "Present perfect continuous used to describe a continuous action that started in the past and continues to the present"
+    },
+    {
+      "answer": "The girls have been picking up strawberries in the forest",
+      "translation": "Las niñas han estado recogiendo fresas en el bosque",
+      "why": "Present perfect continuous used to describe a continuous action that started in the past and continues to the present"
+    },
+    {
+      "answer": "The neighbors have been listening to the same song over and over again",
+      "translation": "Los vecinos han estado escuchando la misma canción una y otra vez",
+      "why": "Present perfect continuous used to describe a continuous action that started in the past and continues to the present"
+    },
+    {
+      "answer": "Granny has been knitting by the fire all afternoon",
+      "translation": "La abuela ha estado tejiendo junto al fuego toda la tarde",
+      "why": "Present perfect continuous used to describe a continuous action that started in the past and continues to the present"
+    },
+    {
+      "answer": "We've been watching 'Stranger Things' the whole weekend",
+      "translation": "Hemos estado viendo «Stranger Things» todo el fin de semana",
+      "why": "Present perfect continuous used to describe a continuous action that started in the past and continues to the present"
+    },
+    {
+      "answer": "My friends have been staying in cheap hostels since the beginning of the trip",
+      "translation": "Mis amigos se han estado alojando en hostales baratos desde el comienzo del viaje",
+      "why": "Present perfect continuous used to describe a continuous action that started in the past and continues to the present"
+    },
+    {
+      "answer": "How long have you been playing tennis?",
+      "translation": "¿Cuánto tiempo llevas jugando al tenis?",
+      "why": "Present perfect continuous used in a question to ask about a continuous action that started in the past and continues to the present"
+    },
+    {
+      "answer": "We've been sunbathing for three hours",
+      "translation": "Hemos estado tomando sol durante tres horas",
+      "why": "Present perfect continuous used to describe a continuous action that started in the past and continues to the present"
+    },
+    {
+      "answer": "My family has been going to the same beach house for over ten years",
+      "translation": "Mi familia ha estado yendo a la misma casa de playa por más de diez años",
+      "why": "Present perfect continuous used to describe a continuous action that started in the past and continues to the present"
+    },
+    {
+      "answer": "Have you been cooking all afternoon?",
+      "translation": "¿Has estado cocinando toda la tarde?",
+      "why": "Present perfect continuous used in a question to ask about a continuous action that started in the past and continues to the present"
+    },
+    {
+      "answer": "I've been painting my bedroom",
+      "translation": "He estado pintando mi habitación",
+      "why": "Present perfect continuous used to describe a continuous action that started in the past and continues to the present"
+    },
+    {
+      "answer": "We've been using public transportation",
+      "translation": "Hemos estado usando el transporte público",
+      "why": "Present perfect continuous used to describe a continuous action that started in the past and continues to the present"
+    },
+    {
+      "answer": "Mary hasn't been going to the gym lately",
+      "translation": "Mary no ha estado yendo al gimnasio recientemente",
+      "why": "Present perfect continuous used to describe a continuous action that started in the past and continues to the present (negative form)"
+    },
+    {
+      "translation": "Hemos estado aquí antes",
+      "answer": "We have been here before",
+      "why": "Present perfect indicating an action that started in the past and continues to the present"
+    },
+    {
+      "translation": "He llevado a mi gato a la veterinaria",
+      "answer": "I've taken my cat to the vet",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "¡Has estado al teléfono durante una hora!",
+      "answer": "You've been on the phone for an hour!",
+      "why": "Present perfect indicating a duration of time up to the present"
+    },
+    {
+      "translation": "Las niñas ya se han ido a dormir",
+      "answer": "The girls have already gone to bed",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "Terry se ha ido a vivir con su novia",
+      "answer": "Terry has moved in with his girlfriend",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "He decidido no ir a la fiesta",
+      "answer": "I've decided not to attend the party",
+      "why": "Present perfect indicating a completed decision with relevance to the present"
+    },
+    {
+      "translation": "La pareja ha terminado",
+      "answer": "The couple has broken up",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "Ya hemos terminado el primer ejercicio",
+      "answer": "We have already finished the first exercise",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "He tenido este dolor de cabeza desde ayer",
+      "answer": "I've had this headache since yesterday",
+      "why": "Present perfect indicating a duration of time up to the present"
+    },
+    {
+      "translation": "Papá ha trabajado para esta compañía durante diez años",
+      "answer": "Dad has worked for this company for ten years",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "Noah siempre nos ha ayudado",
+      "answer": "Noah has always helped us",
+      "why": "Present perfect indicating a habitual action that started in the past and continues to the present"
+    },
+    {
+      "translation": "Los científicos han encontrado una cura para la enfermedad",
+      "answer": "Scientists have discovered a cure for the disease",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "A John se le ha ocurrido una excelente idea",
+      "answer": "John has come up with an excellent idea",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "Esta es la primera vez que pruebo sushi",
+      "answer": "This is the first time I've tried sushi",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "Siempre he querido ver la aurora boreal",
+      "answer": "I've always wanted to see the northern lights",
+      "why": "Present perfect indicating a desire or experience up to the present"
+    },
+    {
+      "translation": "El señor Hamilton se ha convertido en un médico exitoso",
+      "answer": "Mr. Hamilton has become a very successful doctor",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "Les he enseñado a todos mis amigos a jugar a este juego",
+      "answer": "I have taught all of my friends how to play this game",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "Me he olvidado de la reunión",
+      "answer": "I have forgotten about the meeting",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "No sé si han mejorado el servicio",
+      "answer": "I don't know if they have improved the service",
+      "why": "Present perfect indicating uncertainty about a past action up to the present"
+    },
+    {
+      "translation": "Ella ha cambiado de opinión",
+      "answer": "She has changed her mind",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "El bebé se ha despertado",
+      "answer": "The baby has woken up",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "Me he ocupado de todos los detalles",
+      "answer": "I've taken care of all the details",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "He visto a ese niño antes, pero no recuerdo su nombre",
+      "answer": "I have seen that kid before, but I don't remember his name",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "Ha llovido mucho esta semana",
+      "answer": "It has rained a lot this week",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "Han terminado el postre y están listos para irse",
+      "answer": "They have finished dessert and they are ready to leave",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "Hemos viajado a Europa varias veces",
+      "answer": "We have traveled to Europe several times",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "Han vivido en una granja en Australia durante más de cinco años",
+      "answer": "They have lived on a farm in Australia for over five years",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "Mi amiga ha visto esta serie dos veces",
+      "answer": "My friend has watched this series twice",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "He pasado un bonito momento",
+      "answer": "I've spent a lovely moment",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "Tessa ya ha hecho amigos en la nueva ciudad",
+      "answer": "Tessa has already made friends in the new town",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "El autor ha escrito poesía así como también novelas",
+      "answer": "The author has written poetry as well as novels",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "Nos hemos quedado antes en este hotel",
+      "answer": "We have stayed at this hotel before",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "Espero que hayas tenido unas vacaciones maravillosas",
+      "answer": "I hope you have had a wonderful vacation",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    },
+    {
+      "translation": "Es la tercera vez que me encuentro con Jim esta semana",
+      "answer": "It's the third time I've bumped into Jim this week",
+      "why": "Present perfect indicating a completed action with relevance to the present"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+    "phrases": [
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/231221_Learning_lessons_from_the_moon.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/231221_Learning_lessons_from_the_moon_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-231221",
+            "title": "Learning lessons from the Moon"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/231214_6_minute_english_living_without_plastic.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/231214_6_minute_english_living_without_plastic_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-231214",
+            "title": "Can we live without plastic"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/231207_6_minute_english_invasive_species_why_not_eat_them.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/231207_6_minute_english_invasive_species_why_not_eat_them_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-231207",
+            "title": "Invasive species: Why don't we eat them"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/231130_6_minute_english_little_italy.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/231130_6_minute_english_little_italy_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-231130",
+            "title": "What and where is Little Italy"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/231123_6_minute_english_social_media_and_teenage_health.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/231123_6_minute_english_social_media_and_teenage_health_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-231123",
+            "title": "Social media and teenage health"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/231116_6_minute_english_mystery_flying_objects.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/231116_6_minute_english_mystery_flying_objects_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-231116",
+            "title": "Mystery flying objects"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/231109_6_minute_english_elephant_proof_farming.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/231109_6_minute_english_elephant_proof_farming_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-231109",
+            "title": "Elephant-proof farming"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/231102_6_minute_english_should_we_farm_octopus.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/231102_6_minute_english_should_we_farm_octopus_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-231102",
+            "title": "Should we farm octopus"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/231026_6_minute_english_ways_to_live_for_100_years.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/231026_6_minute_english_ways_to_live_for_100_years_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-231026",
+            "title": "Ways to live for 100 years"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/231019_6_minute_english_how_green_is_my_money.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/231019_6_minute_english_how_green_is_my_money_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-231019",
+            "title": "How green is your money"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/231012_6_minute_english_mushrooms_medicine_or_myth.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/231012_6_minute_english_mushrooms_medicine_or_myth_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-231012",
+            "title": "Mushrooms: Medicine or myth"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/231005_6_minute_english_saving_dead_languages.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/231005_6_minute_english_saving_dead_languages_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-231005",
+            "title": "Saving dead languages"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230928_6_minute_english_sounds_that_make_you_want_to_scream.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230928_6_minute_english_sounds_that_make_you_want_to_scream_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230928",
+            "title": "Sounds that make you want to scream"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230921_6_minute_english_how_fans_talk_about_their_passions.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230921_6_minute_english_how_fans_talk_about_their_passions_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230921",
+            "title": "How fans talk about their passions"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230914_6_minute_english_making_male_friends.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230914_6_minute_english_making_male_friends_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230914",
+            "title": "Making male friends"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230907_6_minute_english_Space-saving_solar_hacks.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230907_6_minute_english_Space-saving_solar_hacks_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230907",
+            "title": "Space-saving solar hacks"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230831_6_minute_english_the_stories_behind_our_names.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230831_6_minute_english_the_stories_behind_our_names_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230831",
+            "title": "The stories behind our names"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230824_6_minute_english_heatwaves_can_we_adapt.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230824_6_minute_heatwaves_can_we_adapt_downloads.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230824",
+            "title": "Heatwaves: can we adapt"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230817_6_minute_english_unhappy_at_work.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230817_6_minute_english_unhappy_at_work_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230817",
+            "title": "Are you unhappy at work"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230810_6_minute_english_eco_anxiety.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230810_6_minute_english_eco_anxiety_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230810",
+            "title": "Do you have eco-anxiety"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230803_6_minute_english_the_can_you_stop_a_disaster.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230803_6_minute_english_the_can_you_stop_a_disaster_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230803",
+            "title": "Can you stop a disaster"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230727_6_minute_english_the_right_way_to_say_sorry.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230727_6_minute_english_the_right_way_to_say_sorry_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230727",
+            "title": "The right way to say sorry"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230720_6min_english_wild_food.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230720_6min_english_wild_food_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230720",
+            "title": "Foraging for wild food"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230713_6_minute_english_anti_pollution_plants.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230713_6_minute_english_anti_pollution_plants_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230713",
+            "title": "Plants fighting pollution"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230706_6_minute_english_chatbots.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230706_6_minute_english_chatbots_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230706",
+            "title": "Should we fear chatbots"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230629_6min_english_eating_plants_bad.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230629_6min_english_eating_plants_bad_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230629",
+            "title": "Is it wrong to eat plants"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230622_6min_english_sonic.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230622_6min_english_sonic_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230622",
+            "title": "Sonic seasoning"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230615_6min_english_nothing.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230615_6min_english_nothing_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230615",
+            "title": "The benefits of doing nothing"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230608_6min_english_subtitles.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230608_6_minute_english_subtitles_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230608",
+            "title": "The art of subtitling"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230601_6min_english_ecotourism.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230601_6min_english_ecotourism_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230601",
+            "title": "Ecotourism: good or bad"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230525_6min_english_climate_diseases.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230525_6min_climate_diseases_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230525",
+            "title": "Can climate change cause more disease"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230518_6min_english_food_shortages.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230518_6min_english_food_shortages_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230518",
+            "title": "Food shortages"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230511_6min_english_war_correspondent.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230511_6min_english_war_correspondent_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230511",
+            "title": "Addicted to war"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230504_6min_english_ice.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230504_6min_english_ice_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230504",
+            "title": "Ice and the origins of life on Earth"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230427_6min_english_women_in_politics.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230427_6min_english_women_in_politics_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230427",
+            "title": "Women in politics"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230420_6min_english_museums.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230420_6min_english_museum_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230420",
+            "title": "What's the point of museums"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230413_6min_english_sadness.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230413_6min_english_sadness_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230413",
+            "title": "How culture affects sadness"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230406_6min_english_novelty_veggies.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/6min_english_novelty_vegetables_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230406",
+            "title": "Would you eat a Kalette"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230330_6min_english_jealousy.pdf",
+            "audio_path": "http://downloads.bbc.co.uk/learningenglish/features/6min/230330_6min_english_jealousy_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230330",
+            "title": "Do you get jealous easily"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230323_6min_english_crowds.pdf",
+            "audio_path": "http://downloads.bbc.co.uk/learningenglish/features/6min/230323_6min_english_crowds_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230323",
+            "title": "Crowds"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230316_food_and_mood.pdf",
+            "audio_path": "http://downloads.bbc.co.uk/learningenglish/features/6min/230316_food_and_mood_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230316",
+            "title": "Food and mood"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230309_6min_english_climate.pdf",
+            "audio_path": "http://downloads.bbc.co.uk/learningenglish/features/6min/230309_6min_eng_climate_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230309",
+            "title": "How to talk to a climate denier"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230302_6min_english_mother_tongue.pdf",
+            "audio_path": "http://downloads.bbc.co.uk/learningenglish/features/6min/230302_6min_english_mother_tongue_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230302",
+            "title": "Losing your mother tongue"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230223_6min_english_apple.pdf",
+            "audio_path": "http://downloads.bbc.co.uk/learningenglish/features/6min/230223_6min_english_apple_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230223",
+            "title": "The health benefits of apples"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230216_6min_english_why_do_we_procrastinate.pdf",
+            "audio_path": "http://downloads.bbc.co.uk/learningenglish/features/6min/200216_6_minute_english_why_do_we_procrastinate_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230216",
+            "title": "Why do we procrastinate"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230209_6_minute_english_doomscrolling.pdf",
+            "audio_path": "http://downloads.bbc.co.uk/learningenglish/features/6min/230209_6_minute_english_doomscrolling_DOWNLOAD.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230209",
+            "title": "Doomscrolling: Why do we do it? "
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230202_6min_english_lazy_guide_to_exercise.pdf",
+            "audio_path": "http://downloads.bbc.co.uk/learningenglish/features/6min/230202_6min_english_lazy_guide_to_exercise_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230202",
+            "title": "Exercise for the lazy"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230126_6min_english_AI_conscious.pdf",
+            "audio_path": "http://downloads.bbc.co.uk/learningenglish/features/6min/230126_6min_english_AI_conscious_download.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230126",
+            "title": "Can AI have a mind of its own"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230119_6_minute_english_overpopulation.pdf",
+            "audio_path": "http://downloads.bbc.co.uk/learningenglish/features/6min/230119_6_minute_english_overpopulation_DOWNLOAD.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230119",
+            "title": "Climate change: Are there too many people? "
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230112_6_minute_english_secret_life_of_buffets.pdf",
+            "audio_path": "http://downloads.bbc.co.uk/learningenglish/features/6min/230112_6_minute_english_secret_life_of_buffets.mp3",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230112",
+            "title": "The hidden life of buffets"
+        },
+        {
+            "pdf": "https://downloads.bbc.co.uk/learningenglish/features/6min/230105_6_minute_english_songwriting.pdf",
+            "audio_path": "https://downloads.bbc.co.uk/learningenglish/features/6min/230105_6_minute_english_songwriting_DOWNLOAD.wav",
+            "link": "https://downloads.bbc.co.uk/learningenglish/features/6-minute-english_2023/ep-230105",
+            "title": "Songwriting"
+        }
+    ]
+}

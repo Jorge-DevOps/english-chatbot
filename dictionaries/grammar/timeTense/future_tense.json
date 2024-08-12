@@ -1,0 +1,1029 @@
+{
+  "phrases": [
+    {
+      "translation": "Habré terminado el libro para el viernes",
+      "answer": "I will have finished the book by Friday",
+      "why": "Future perfect indicating a completed action by a specified time in the future"
+    },
+    {
+      "translation": "Ellos ya habrán llegado",
+      "answer": "They will have arrived by now",
+      "why": "Future perfect indicating an expected completion of action by the present moment"
+    },
+    {
+      "translation": "Habrá dejado de llover para el mediodía",
+      "answer": "It will have stopped raining by noon",
+      "why": "Future perfect indicating an expected completion of action by a specific future time"
+    },
+    {
+      "translation": "Habré visitado Machu Pichu para cuando tenga 25",
+      "answer": "I will have visited Machu Picchu before I turn 25",
+      "why": "Future perfect indicating an expected completion of action before a specified future time"
+    },
+    {
+      "translation": "Se habrán mudado para 2025",
+      "answer": "They will have moved by 2025",
+      "why": "Future perfect indicating an expected completion of action by a specified future year"
+    },
+    {
+      "translation": "El abuelo se habrá retirado para ese entonces",
+      "answer": "Granddad will have retired by then",
+      "why": "Future perfect indicating an expected completion of action by a specified future time"
+    },
+    {
+      "translation": "Para mayo, nos habremos conocido durante tres años",
+      "answer": "By May, we will have known each other for three years",
+      "why": "Future perfect indicating an expected completion of action by a specified future month"
+    },
+    {
+      "translation": "Él se habrá ido para cuando lleguemos",
+      "answer": "He will have left by the time we arrive",
+      "why": "Future perfect indicating an expected completion of action by a specified future event"
+    },
+    {
+      "translation": "Para fin de año, habremos estado juntos durante dos años",
+      "answer": "By the end of the year, we will have been together for two years",
+      "why": "Future perfect indicating an expected completion of action by a specific future time"
+    },
+    {
+      "translation": "El avión ya habrá despegado",
+      "answer": "The plane will have already taken off",
+      "why": "Future perfect indicating an expected completion of action before a future reference point"
+    },
+    {
+      "translation": "Ella habrá planeado todo antes del viaje",
+      "answer": "She will have planned everything before the trip",
+      "why": "Future perfect indicating an expected completion of action by a specified future event"
+    },
+    {
+      "translation": "El profesor habrá enseñado todos los contenidos para el viernes",
+      "answer": "The teacher will have taught all the contents by Friday",
+      "why": "Future perfect indicating an expected completion of action by a specific future time"
+    },
+    {
+      "translation": "Los efectos del cambio climático se habrán agravado a finales de esta década",
+      "answer": "The effects of climate change will have worsened by the end of this decade",
+      "why": "Future perfect indicating an expected completion of action by a specified future time"
+    },
+    {
+      "translation": "A finales de siglo se habrán alcanzado temperaturas récord",
+      "answer": "By the end of the century, record temperatures will have been reached",
+      "why": "Future perfect indicating an expected completion of action by a specified future time"
+    },
+    {
+      "translation": "Los científicos habrán descubierto una cura para la enfermedad para 2030",
+      "answer": "Scientists will have discovered a cure for the disease by 2030",
+      "why": "Future perfect indicating an expected completion of action by a specific future year"
+    },
+    {
+      "translation": "Fred habrá cumplido 18 años la próxima vez que lo veamos",
+      "answer": "Fred will have turned 18 years old next time we see him",
+      "why": "Future perfect indicating an expected completion of action by a specific future event"
+    },
+    {
+      "translation": "Habré entendido el tema para el final de este artículo",
+      "answer": "I will have understood the topic by the end of this article",
+      "why": "Future perfect indicating an expected completion of action by a specific future event"
+    },
+    {
+      "translation": "El reloj habrá dado la medianoche cuando lleguemos",
+      "answer": "The clock will have struck midnight by the time we get there",
+      "why": "Future perfect indicating an expected completion of action by a specific future event"
+    },
+    {
+      "translation": "Los estudiantes habrán rendido todos sus exámenes para el final del semestre",
+      "answer": "The students will have sat for all their exams by the end of the semester",
+      "why": "Future perfect indicating an expected completion of action by a specific future time"
+    },
+    {
+      "translation": "Habré escrito mi tarea antes de la fecha de entrega",
+      "answer": "I will have written my assignment before the deadline",
+      "why": "Future perfect indicating an expected completion of action by a specific future event"
+    },
+    {
+      "translation": "Sue se habrá ido de la fiesta para cuando lleguemos",
+      "answer": "Sue will have left the party by the time we get there",
+      "why": "Future perfect indicating an expected completion of action by a specific future event"
+    },
+    {
+      "translation": "Para fin de mes papá habrá estado trabajando para la empresa durante 10 años",
+      "answer": "By the end of the month, Dad will have been working for the company for 10 years",
+      "why": "Future perfect indicating an expected completion of action by a specific future time"
+    },
+    {
+      "translation": "El bebé habrá nacido para el 30 de septiembre",
+      "answer": "The baby will have been born by 30 September",
+      "why": "Future perfect indicating an expected completion of action by a specific future date"
+    },
+    {
+      "translation": "En dos años habré cambiado de trabajo",
+      "answer": "In two year’s time, I will have changed jobs",
+      "why": "Future perfect indicating an expected completion of action by a specific future time"
+    },
+    {
+      "translation": "Los alpinistas habrán llegado a la cima del monte Everest para el final del día",
+      "answer": "The climbers will have reached the top of Mount Everest by the end of the day",
+      "why": "Future perfect indicating an expected completion of action by a specific future time"
+    },
+    {
+      "translation": "Para finales de agosto, habremos estado viviendo en la misma casa durante cuatro años",
+      "answer": "By the end of August, we will have been living in the same house for four years",
+      "why": "Future perfect indicating an expected completion of action by a specific future time"
+    },
+    {
+      "translation": "La expedición se habrá quedado sin agua antes de regresar",
+      "answer": "The expedition will have run out of water before they get back",
+      "why": "Future perfect indicating an expected completion of action by a specific future event"
+    },
+    {
+      "translation": "La fiesta ya habrá comenzado",
+      "answer": "The party will have already started",
+      "why": "Future perfect indicating an expected completion of action by a specific future event"
+    },
+    {
+      "translation": "La banda habrá tocado mi canción favorita para cuando lleguemos al concierto",
+      "answer": "The band will have played my favorite song by the time we get to the concert",
+      "why": "Future perfect indicating an expected completion of action by a specific future event"
+    },
+    {
+      "translation": "Mi amigo se habrá ido a dormir para las 11 p. m",
+      "answer": "My friend will have gone to bed by 11 p.m",
+      "why": "Future perfect indicating an expected completion of action by a specific future time"
+    },
+    {
+      "translation": "Habré perdido la mayor parte de mi clase de inglés para cuando llegue",
+      "answer": "I will have missed most of my English class by the time I arrive",
+      "why": "Future perfect indicating an expected completion of action by a specific future event"
+    },
+    {
+      "translation": "Para cuando se retire, Messi habrá marcado más goles que cualquier otro jugador",
+      "answer": "By the time he retires, Messi will have scored more goals than any other player",
+      "why": "Future perfect indicating an expected completion of action by a specific future time"
+    },
+    {
+      "translation": "Para finales de mes, Andy habrá tocado para la orquesta de la ciudad durante cinco años",
+      "answer": "By the end of the month, Andy will have been playing for the city orchestra for five years",
+      "why": "Future perfect indicating an expected completion of action by a specific future time"
+    },
+    {
+      "translation": "Habremos hecho todos los arreglos necesarios para el próximo fin de semana",
+      "answer": "We will have made all the necessary arrangements by next weekend",
+      "why": "Future perfect indicating an expected completion of action by a specific future time"
+    },
+    {
+      "translation": "Los invitados no habrán llegado",
+      "answer": "The guests will not have arrived",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future time"
+    },
+    {
+      "translation": "El tren no habrá partido cuando lleguemos a la estación",
+      "answer": "The train will not have departed by the time we get to the station",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future event"
+    },
+    {
+      "translation": "No habrá dejado de llover para las 10 a. m",
+      "answer": "It will not have stopped raining by 10 a.m",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future time"
+    },
+    {
+      "translation": "La función no habrá terminado cuando lleguemos al teatro",
+      "answer": "The performance will not have ended by the time we get to the theater",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future event"
+    },
+    {
+      "translation": "La Tierra no se habrá enfriado para la próxima década",
+      "answer": "The Earth will not have cooled down by next decade",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future time"
+    },
+    {
+      "translation": "Para entonces no habrá oscurecido",
+      "answer": "It will not have gotten dark by then",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future time"
+    },
+    {
+      "translation": "No habré aprendido la lección antes de la próxima semana",
+      "answer": "I will not have learned the lesson before next week",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future event"
+    },
+    {
+      "translation": "No habrá olvidado la discusión antes de que la volvamos a ver",
+      "answer": "She will not have forgotten the argument before we see her again",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future event"
+    },
+    {
+      "translation": "Los niños no habrán escrito el ensayo para el jueves",
+      "answer": "The boys won’t have written the essay by Thursday",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future time"
+    },
+    {
+      "translation": "La policía no habrá resuelto el crimen",
+      "answer": "The police will not have solved the crime",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future event"
+    },
+    {
+      "translation": "No habré hecho toda mi tarea a la 1 p. m",
+      "answer": "I will not have done all my homework by 1 p.m",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future time"
+    },
+    {
+      "translation": "Sally todavía no se habrá ido de casa",
+      "answer": "Sally won’t have left home already",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future event"
+    },
+    {
+      "translation": "Supongo que no habrás escuchado las noticias",
+      "answer": "I guess you won’t have heard the news",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future event"
+    },
+    {
+      "translation": "El equipo no habrá completado el proyecto antes de la fecha límite",
+      "answer": "The team won’t have completed the project before the deadline",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future time"
+    },
+    {
+      "translation": "No habrás visto lo mejor de la serie hasta el último episodio",
+      "answer": "You won’t have seen the best of the series until the last episode",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future event"
+    },
+    {
+      "translation": "No habré leído todo el libro antes de tener que devolverlo",
+      "answer": "I won’t have read the whole book before I have to give it back",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future event"
+    },
+    {
+      "translation": "No habremos llegado para entonces",
+      "answer": "We will not have arrived by then",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future time"
+    },
+    {
+      "translation": "No habrán entregado el paquete hasta mañana",
+      "answer": "They won’t have delivered the package until tomorrow",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future time"
+    },
+    {
+      "translation": "No habrán lanzado el nuevo Iphone para julio",
+      "answer": "They will not have released the new iPhone by July",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future time"
+    },
+    {
+      "translation": "El aire acondicionado no habrá sido reparado",
+      "answer": "The air conditioner will not have been fixed",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future time"
+    },
+    {
+      "translation": "Mark no se habrá marchado antes de que lo llames",
+      "answer": "Mark won’t have set off before you call him",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future event"
+    },
+    {
+      "translation": "No habré terminado mis estudios universitarios antes de finales de 2024",
+      "answer": "I will not have finished my university studies before the end of 2024",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future time"
+    },
+    {
+      "translation": "No habremos comprado una nueva casa para el año que viene",
+      "answer": "We won’t have bought a new house by next year",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future time"
+    },
+    {
+      "translation": "No se les habrá ocurrido una solución al problema",
+      "answer": "They will not have come up with a solution to the problem",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future event"
+    },
+    {
+      "translation": "Wade y Olivia no se habrán casado antes de junio",
+      "answer": "Wade and Olivia won’t have gotten married before June",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future event"
+    },
+    {
+      "translation": "La pandemia no habrá terminado hasta que toda la población mundial esté vacunada",
+      "answer": "The pandemic will not have ended until all the world population is vaccinated",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future event"
+    },
+    {
+      "translation": "El tiempo no habrá mejorado para mañana a la mañana",
+      "answer": "The weather won’t have cleared up by tomorrow morning",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future time"
+    },
+    {
+      "translation": "No habrán aprendido inglés antes de mudarse a Inglaterra",
+      "answer": "They won’t have learned English before they move to England",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future event"
+    },
+    {
+      "translation": "Desafortunadamente, todos los sobrevivientes no habrán sido rescatados antes de esta noche",
+      "answer": "Unfortunately, all the survivors will not have been rescued before tonight",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future event"
+    },
+    {
+      "translation": "No habrán encontrado al delincuente",
+      "answer": "The criminal will not have been found",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future time"
+    },
+    {
+      "translation": "No se habrá molestado en ir",
+      "answer": "He won’t have bothered to go",
+      "why": "Negative future perfect indicating an expected non-completion of action by a specific future event"
+    },
+    {
+      "translation": "mañana voy al supermercado",
+      "answer": " I am going to the supermarket tomorrow",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Mi hermana me regalará su auto cuando reciba el nuevo",
+      "answer": " My sister is giving me her car when she gets her new one",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "El domingo vamos a hacer una barbacoa",
+      "answer": " We are having a barbecue on Sunday",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Todos mis amigos vendrán a mi fiesta la próxima semana",
+      "answer": " All my friends are coming to my party next week",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Hoy llevaremos a mi sobrina al Aquapark",
+      "answer": " We are taking my niece to Aquapark later today",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "El tren sale en diez minutos",
+      "answer": " The train is leaving in ten minutes",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "mañana vamos al zoo",
+      "answer": " We are going to the zoo tomorrow",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "El viernes voy a la fiesta de Rob",
+      "answer": " On Friday I am going to Rob's party",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "mi maestra irá a la escuela mañana",
+      "answer": " My teacher is going to school tomorrow",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Rhonda se quedará en casa el viernes",
+      "answer": " Rhonda is staying in on Friday",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Bill irá al cine el fin de semana",
+      "answer": " Bill is going to the cinema at the weekend",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "¿Susan está trabajando esta semana?",
+      "answer": " Is Susan working this week",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "¿Tu inglés está mejorando?",
+      "answer": " Is your English getting better",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "mañana veré al gerente",
+      "answer": " I am seeing the manager tomorrow",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Él está jugando al tenis esta tarde",
+      "answer": " He is playing tennis this afternoon",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Sue vendrá a vernos mañana",
+      "answer": " Sue is coming to see us tomorrow",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "esta tarde voy al teatro",
+      "answer": " I am going to the theatre this evening",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "¿A qué hora llega Katy mañana?",
+      "answer": " At what time is Katy arriving tomorrow",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "esta tarde no trabajo",
+      "answer": " I am not working this evening",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "No voy a usar el coche esta noche",
+      "answer": " I am not using the car this evening",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "¿Cuándo me llevarás al zoológico?",
+      "answer": " When are you taking me to the zoo",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Pronto empezaré clases de piano",
+      "answer": " I am starting piano lessons soon",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "mañana nos vamos de campamento",
+      "answer": " We are going camping tomorrow",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Los padres de Pete lo llevarán a Holanda la próxima semana",
+      "answer": " Pete's parents are taking him to Holland next week",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Mi programa de televisión favorito comienza en un minuto",
+      "answer": " My favourite TV program is starting in a minute",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Todos nuestros amigos vienen",
+      "answer": " All our friends are coming",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "¿Quién trae ensalada para la barbacoa?",
+      "answer": " Who is bringing salad for the barbecue",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Visitaré a Joe la próxima semana",
+      "answer": " I am visiting Joe next week",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "¿A dónde vas de vacaciones?",
+      "answer": " Where are you going for your vacation",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "¿Qué vamos a cenar?",
+      "answer": " What are we eating for dinner",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Me reuniré con algunos amigos después del trabajo",
+      "answer": " I am meeting some friends after work",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "esta noche no voy a la fiesta",
+      "answer": " I am not going to the party tonight",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "¿Visitará a sus padres el próximo fin de semana?",
+      "answer": " Is he visiting his parents next weekend",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "¿No vendrá con nosotros esta noche?",
+      "answer": " Is he not coming with us tonight",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "cuando te casas",
+      "answer": " When are you getting married",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Él verá a su madre el martes",
+      "answer": " He is seeing his mother on Tuesday",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Ella viajará a York el fin de semana",
+      "answer": " She is traveling to York at the weekend",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "esta noche vamos a comer en un restaurante",
+      "answer": " We are eating in a restaurant tonight",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "ellos no estan trabajando",
+      "answer": " They are not working",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "¿Cuándo empiezas tu nuevo trabajo?",
+      "answer": " When are you starting your new job",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Mary hará su examen de música el próximo año",
+      "answer": " Mary is taking her music exam next year",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "este verano me voy al extranjero",
+      "answer": " I am going abroad this summer",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "ella se casa este mes",
+      "answer": " She is getting married this month",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Esta semana tengo mis primeras lecciones de piano",
+      "answer": " I am having my first piano lessons this week",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "¿Tienen una fiesta el viernes?",
+      "answer": " Are they having a party on Friday",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "¿Te reunirás con Vicky hoy?",
+      "answer": " Are you meeting Vicky today",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Él no irá a la escuela mañana",
+      "answer": " He is not going to school tomorrow",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "El sábado madrugamos para jugar al golf",
+      "answer": " We are getting up early on Saturday to play golf",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Me quedaré en un hotel cerca de la estación la semana que viene",
+      "answer": " I am staying in a hotel near the station next week",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Conduciré a Manchester el viernes",
+      "answer": " I am driving to Manchester on Friday",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Voy a ver a mi dentista el lunes",
+      "answer": " I am seeing my dentist on Monday",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Sonia viene mañana a cenar",
+      "answer": " Sonia is coming for dinner tomorrow",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "¿Estás haciendo algo esta noche?",
+      "answer": " Are you doing anything tonight",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "el va a escribir un libro",
+      "answer": " He is going to write a book",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Esta noche llevaré a Sally a cenar",
+      "answer": " I am taking Sally out for dinner tonight",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Las chicas y yo saldremos esta noche",
+      "answer": " The girls and I are going out tonight",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Van a tener una boda muy pequeña",
+      "answer": " They are having a very small wedding",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "¿Te reunirás con tus amigos mañana?",
+      "answer": " Are you meeting your friends tomorrow",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "¿Te quedarás conmigo hoy?",
+      "answer": " Are you staying with me today",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Sally se reunirá con Luis a las 3 p.m",
+      "answer": " Sally is meeting Luis at 3 p.m",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Volamos a México el sábado",
+      "answer": " We are flying to Mexico on Saturday",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Nuestra abuela nos visita en Navidad",
+      "answer": " Our grandmother is visiting us at Christmas",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Me reuniré con mi padre en el aeropuerto",
+      "answer": " I am meeting my father at the airport",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "No trabaja la semana que viene",
+      "answer": " He is not working next week",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "El me esta recogiendo a la una",
+      "answer": " He is picking me up at one o'clock",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "La empresa regala a todos un bono por Navidad",
+      "answer": " The company is giving everybody a bonus for Christmas",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Estoy cantando esta noche en el club",
+      "answer": " I am singing tonight at the club",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Estoy terminando mi carrera el año que viene",
+      "answer": " I am finishing my degree next year",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Vamos a comprar una casa nueva el próximo año",
+      "answer": " We are buying a new house next year",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Tenemos una prueba en dos días",
+      "answer": " We are having a test in two days",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Peter cuidará niños esta noche",
+      "answer": " Peter is babysitting tonight",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Ella no hará nada la próxima semana",
+      "answer": " She is not doing anything next week",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "estoy estudiando el próximo fin de semana",
+      "answer": " I am studying next weekend",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Vendrán a la fiesta el próximo fin de semana",
+      "answer": " They are coming to the party next weekend",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "me voy a las 3 en punto",
+      "answer": " I am leaving at 3 o'clock",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "estoy planeando mi boda",
+      "answer": " I am planning my wedding",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Voy a pasar la tarde con Isabel",
+      "answer": " I am spending the evening with Isabel",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Amanda está jugando a las cartas esta noche",
+      "answer": " Amanda is playing cards this evening",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "voy a tomar un tren esta noche",
+      "answer": " I am taking a train tonight",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Tengo un mes de vacaciones en junio",
+      "answer": " I am having a month's vacation in June",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Voy a Noruega el año que viene",
+      "answer": " I am going to Norway next year",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "estoy almorzando con un amigo",
+      "answer": " I am having lunch with a friend",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Voy a visitar París la próxima semana",
+      "answer": " I am visiting Paris next week",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Vamos a tener una fiesta el próximo fin de semana",
+      "answer": " We are having a party next weekend",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Se va de viaje de negocios la próxima semana",
+      "answer": " He is going on a business trip next week",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Mañana empieza un curso de fotografía",
+      "answer": " He is starting a photography course tomorrow",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Se casan la próxima semana",
+      "answer": " They are getting married next week",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Nos mudamos de casa la próxima semana",
+      "answer": " We are moving house next week",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "voy a hacer un examen en octubre",
+      "answer": " I am taking an exam in October",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "mañana salgo en tren",
+      "answer": " I am leaving by train tomorrow",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Se quedan hasta las 5 en punto",
+      "answer": " They are staying until 5 o'clock",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Volvemos el próximo viernes",
+      "answer": " We are coming back next Friday",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Mañana visitarán el museo",
+      "answer": " They are visiting the museum tomorrow",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Están haciendo un picnic el domingo",
+      "answer": " They are having a picnic on Sunday",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Visitaré a mi abuela el próximo verano",
+      "answer": " I am visiting my grandmother next summer",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Paco está jugando al golf el fin de semana",
+      "answer": " Paco is playing golf at the weekend",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Él está desayunando tarde",
+      "answer": " He is having a late breakfast",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Voy a Noruega la semana que viene",
+      "answer": " I am going to Norway next week",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Mi avión llega esta noche a las 8:30 p.m",
+      "answer": " My plane is arriving tonight at 8:30 p.m",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "¿Qué harás después? estoy jugando futbol",
+      "answer": " What are you doing later? I am playing soccer",
+      "why": "present continuous for the future is used when talking about something that is already planned or decided, making the event seen as certain or very likely to happen."
+    },
+    {
+      "translation": "Nosotros vamos a jugar tenis el próximo sábado",
+      "answer": "We’re going to play tennis next Saturday",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Madison no va a comprar ese auto",
+      "answer": "Madison is not going to buy that car",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "¿Alice y Ella se van a quedar en Londres por más de una semana?",
+      "answer": "Are Alice and Ella going to stay in London for more than a week",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Noah va a lavar los platos después de la fiesta",
+      "answer": "Noah is going to wash the dishes after the party",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Wendy va a visitar a una amiga esta noche",
+      "answer": "Wendy is going to visit a friend in the evening",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "La compañía va a aumentar sus ventas este año",
+      "answer": "The company is going to increase sales this year",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Mis padres no van a viajar en el verano",
+      "answer": "My parents are not going to travel in the summer",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Va a ser un día hermoso hoy; ¡el cielo está tan azul!",
+      "answer": "It’s going to be a beautiful day today; the sky is so blue",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "¿Vas a publicar tu novela este año?",
+      "answer": "Are you going to publish your novel this year",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Mira el cielo; va a llover pronto",
+      "answer": "Look at the sky; it’s going to rain soon",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Él va a hablar en la reunión semanal",
+      "answer": "He is going to speak at the weekly meeting",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "¿Vas a visitar las pirámides mientras estés en Egipto?",
+      "answer": "Are you going to visit the pyramids while in Egypt",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Mel va a ver una obra en el teatro esta noche",
+      "answer": "Mel is going to see a play at the theater tonight",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Mi mamá nos va a preparar galletas",
+      "answer": "My mother is going to prepare some cookies for us",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "¿Quién va a comprar los ingredientes que necesitamos para la receta?",
+      "answer": "Who is going to buy the ingredients we need for the recipe",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "No le voy a pedir aumento de salario al jefe",
+      "answer": "I’m not going to ask the boss for a salary raise",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "¿Tus amigos nos van a ayudar?",
+      "answer": "Are your friends going to help us",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Qué vas a hacer al respecto?",
+      "answer": "What are you going to do about it",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Jack se va a preparar para el examen",
+      "answer": "Jack is going to prepare for the test",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Qué va a estudiar Willow en la universidad?",
+      "answer": "What is Willow going to study at university",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Ella va a visitar a su familia durante sus vacaciones",
+      "answer": "She’s going to visit her family during her vacation",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Ese libro se va a caer; está en el borde de la mesa",
+      "answer": "That book is going to fall; it’s on the edge of the table",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Voy a lavarme las manos",
+      "answer": "I’m going to wash my hands",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Jane va a viajar por el mundo cuando termine la universidad",
+      "answer": "Jane is going to travel the world when she finishes university",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Mel va a vivir en la costa oeste de Estados Unidos",
+      "answer": "Mel is going to live on the West Coast of the USA",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Todavía no sé qué ropa voy a usar para la fiesta esta noche",
+      "answer": "I still don’t know what clothes I’m going to wear for the party tonight",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Mi padre va a cambiar de trabajo",
+      "answer": "My father is going to change jobs",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Qué vamos a comer para el almuerzo?",
+      "answer": "What are we going to eat for lunch",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Sue va a leer mucho durante sus vacaciones",
+      "answer": "Sue is going to read a lot while on vacation",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "¿Qué le vas a regalar a Julia para su cumpleaños?",
+      "answer": "What are you going to give Julia for her birthday",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Iba a entrar en la competencia, pero me enfermé",
+      "answer": "I was going to enter the competition, but I got sick",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Ellos iban a venir a la ciudad, pero no había boletos de tren disponibles",
+      "answer": "They were going to come to town, but there were no train tickets available",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Mary iba a visitarnos pero no pudo",
+      "answer": "Mary was going to visit us, but she couldn’t",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Terry y Wendy iban a viajar cuando estalló la pandemia",
+      "answer": "Terry and Wendy were going to travel when the pandemic broke out",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Iba a llamar a mi madre cuando ella llegó",
+      "answer": "I was going to call my mother when she arrived",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Íbamos a hacer ejercicio al aire libre cuando empezó a llover",
+      "answer": "We were going to work out outdoors when it started raining",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Bob iba a comprar los tickets cuando se enteró de que el show había sido cancelado",
+      "answer": "Bob was going to buy the tickets when he learned that the show had been canceled",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Sarah iba a hacer una gran fiesta de cumpleaños, pero después cambió de idea",
+      "answer": "Sarah was going to throw a big birthday party, but then she changed her mind",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Sharon iba a estudiar medicina, pero luego eligió leyes",
+      "answer": "Sharon was going to study medicine, but then she chose law",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    },
+    {
+      "translation": "Yo iba a jugar al tenis, pero hacía mucho frío",
+      "answer": "I was going to play tennis, but it was too cold",
+      "why": "Used for future intentions or when observing present evidence of something that is going to happen"
+    }
+  ]
+}

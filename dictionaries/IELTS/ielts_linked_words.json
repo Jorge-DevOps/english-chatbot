@@ -1,0 +1,30 @@
+{
+  "phrases": [
+    {"answer": "However", "translation": "sin embargo", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "Although", "translation": "aunque", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "For instance", "translation": "por ejemplo", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "As a result", "translation": "como resultado", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "Therefore", "translation": "por lo tanto", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "In addition", "translation": "además", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "On the other hand", "translation": "por otro lado", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "Nevertheless", "translation": "no obstante", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "Despite", "translation": "a pesar de", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "In contrast", "translation": "en contraste", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "Because", "translation": "porque", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "Due to", "translation": "debido a", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "Consequently", "translation": "por consiguiente", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "Hence", "translation": "por eso", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "Such as", "translation": "tal como", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "Including", "translation": "incluyendo", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "That is to say", "translation": "es decir", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "To clarify", "translation": "para aclarar", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "Then", "translation": "entonces", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "Next", "translation": "a continuación", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "Since", "translation": "dado que", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "Indeed", "translation": "en efecto", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "In fact", "translation": "de hecho", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "To summarize", "translation": "para resumir", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "In summary", "translation": "en resumen", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"},
+    {"answer": "Overall", "translation": "en general", "pronunciation": "https://www.wordreference.com/audio/en/uk/general/"}
+]
+}

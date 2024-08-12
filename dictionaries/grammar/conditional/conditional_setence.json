@@ -1,0 +1,639 @@
+{
+    "phrases": [
+        {
+            "translation": "Si llueve mañana, nos quedaremos adentro",
+            "answer": "If it rains tomorrow, we will stay indoors",
+            "why": "Type: 1 conditional (If + present simple, will + base form)"
+        },
+        {
+            "translation": "Si estudias duro, aprobarás el examen",
+            "answer": "If you study hard, you will pass the exam",
+            "why": "Type: 1 conditional (If + present simple, will + base form)"
+        },
+        {
+            "translation": "Si ella me llama, contestaré",
+            "answer": "If she calls me, I will answer",
+            "why": "Type: 1 conditional (If + present simple, will + base form)"
+        },
+        {
+            "translation": "Si llegan a tiempo, podemos empezar la reunión",
+            "answer": "If they arrive on time, we can start the meeting",
+            "why": "Type: 1 conditional (If + present simple, can + base form)"
+        },
+        {
+            "translation": "Si lo veo hoy, le preguntaré sobre el proyecto",
+            "answer": "If I see him today, I'll ask him about the project",
+            "why": "Type: 1 conditional (If + present simple, will + base form)"
+        },
+        {
+            "translation": "Si nieva mañana, es posible que las escuelas cierren",
+            "answer": "If it snows tomorrow, schools might close",
+            "why": "Type: 1 conditional (If + present simple, might + base form)"
+        },
+        {
+            "translation": "Si no te apuras, perderás el autobús",
+            "answer": "If you don't hurry, you will miss the bus",
+            "why": "Type: 1 conditional (If + present simple, will + base form)"
+        },
+        {
+            "translation": "Si termina su trabajo temprano, puede unirse a nosotros para cenar",
+            "answer": "If he finishes his work early, he can join us for dinner",
+            "why": "Type: 1 conditional (If + present simple, can + base form)"
+        },
+        {
+            "translation": "Si ahorramos suficiente dinero, iremos de vacaciones el próximo mes",
+            "answer": "If we save enough money, we'll go on vacation next month",
+            "why": "Type: 1 conditional (If + present simple, will + base form)"
+        },
+        {
+            "translation": "Si el restaurante está lleno, tal vez tengamos que esperar por una mesa",
+            "answer": "If the restaurant is crowded, we might have to wait for a table",
+            "why": "Type: 1 conditional (If + present simple, might + base form)"
+        },
+        {
+            "translation": "Si ella pierde el tren, llegará tarde a la reunión",
+            "answer": "If she misses the train, she'll be late for the meeting",
+            "why": "Type: 1 conditional (If + present simple, will + base form)"
+        },
+        {
+            "translation": "Si riegas las plantas regularmente, crecerán bien",
+            "answer": "If you water the plants regularly, they will grow well",
+            "why": "Type: 1 conditional (If + present simple, will + base form)"
+        },
+        {
+            "translation": "Si me ofrecen el trabajo, lo aceptaré",
+            "answer": "If they offer me the job, I'll accept it",
+            "why": "Type: 1 conditional (If + present simple, will + base form)"
+        },
+        {
+            "translation": "Si se hace muy tarde, tomaremos un taxi a casa",
+            "answer": "If it gets too late, we'll take a taxi home",
+            "why": "Type: 1 conditional (If + present simple, will + base form)"
+        },
+        {
+            "translation": "Si come demasiado, se sentirá mal",
+            "answer": "If he eats too much, he'll feel sick",
+            "why": "Type: 1 conditional (If + present simple, will + base form)"
+        },
+        {
+            "translation": "Si compras un boleto ahora, será más barato",
+            "answer": "If you buy a ticket now, it will be cheaper",
+            "why": "Type: 1 conditional (If + present simple, will + base form)"
+        },
+        {
+            "translation": "Si perdemos el autobús, podemos caminar hasta la estación",
+            "answer": "If we miss the bus, we can walk to the station",
+            "why": "Type: 1 conditional (If + present simple, can + base form)"
+        },
+        {
+            "translation": "Si estudian español, entenderán mejor cuando viajen",
+            "answer": "If they study Spanish, they will understand better when they travel",
+            "why": "Type: 1 conditional (If + present simple, will + base form)"
+        },
+        {
+            "translation": "Si termino este libro hoy, empezaré uno nuevo mañana",
+            "answer": "If I finish this book today, I'll start a new one tomorrow",
+            "why": "Type: 1 conditional (If + present simple, will + base form)"
+        },
+        {
+            "translation": "Si el clima mejora, iremos a hacer una caminata",
+            "answer": "If the weather improves, we'll go for a hike",
+            "why": "Type: 1 conditional (If + present simple, will + base form)"
+        },
+        {
+            "translation": "Si fuera rico, viajaría por todo el mundo",
+            "answer": "If I were rich, I would travel around the world",
+            "why": "Type: Second conditional (If + past simple (were), would + base form)"
+        },
+        {
+            "translation": "Si ella estudiara más duro, aprobaría el examen",
+            "answer": "If she studied harder, she would pass the exam",
+            "why": "Type: Second conditional (If + past simple (studied), would + base form)"
+        },
+        {
+            "translation": "Si tuvieran más tiempo, nos visitarían más seguido",
+            "answer": "If they had more time, they would visit us more often",
+            "why": "Type: Second conditional (If + past simple (had), would + base form)"
+        },
+        {
+            "translation": "Si lloviera mañana, no iríamos a la playa",
+            "answer": "If it rained tomorrow, we wouldn't go to the beach",
+            "why": "Type: Second conditional (If + past simple (rained), would/should/could + base form)"
+        },
+        {
+            "translation": "Si fuera tú, aceptaría esa oferta de trabajo",
+            "answer": "If I were you, I would take that job offer",
+            "why": "Type: Second conditional (If + past simple (were), would + base form)"
+        },
+        {
+            "translation": "Si hablara español con fluidez, podría trabajar en América Latina",
+            "answer": "If he spoke Spanish fluently, he could work in Latin America",
+            "why": "Type: Second conditional (If + past simple (spoke), could + base form)"
+        },
+        {
+            "translation": "Si viviéramos más cerca de la playa, iríamos a surfear cada fin de semana",
+            "answer": "If we lived closer to the beach, we would go surfing every weekend",
+            "why": "Type: Second conditional (If + past simple (lived), would + base form)"
+        },
+        {
+            "translation": "Si ganaras la lotería, ¿qué harías con el dinero?",
+            "answer": "If you won the lottery, what would you do with the money?",
+            "why": "Type: Second conditional (If + past simple (won), would + base form)"
+        },
+        {
+            "translation": "Si no hiciera tanto calor, podríamos ir de excursión",
+            "answer": "If it weren't so hot, we could go for a hike",
+            "why": "Type: Second conditional (If + past simple (were not), could + base form)"
+        },
+        {
+            "translation": "Si ella supiera su número de teléfono, lo llamaría",
+            "answer": "If she knew his phone number, she would call him",
+            "why": "Type: Second conditional (If + past simple (knew), would + base form)"
+        },
+        {
+            "translation": "Si me hubieran dicho antes, podría haberlos ayudado",
+            "answer": "If they had told me earlier, I could have helped them",
+            "why": "Type: Second conditional (If + past perfect (had told), could have + past participle)"
+        },
+        {
+            "english": "If you were more patient, you would enjoy life more",
+            "translation": "Si fueras más paciente, disfrutarías más la vida",
+            "type": "Second conditional (If + past simple (were), would + base form)"
+        },
+        {
+            "english": "If he had studied engineering, he might have become an architect",
+            "translation": "Si hubiera estudiado ingeniería, tal vez se habría convertido en arquitecto",
+            "type": "Second conditional (If + past perfect (had studied), might + have + past participle)"
+        },
+        {
+            "english": "If it didn't rain so much, the crops would be healthier",
+            "translation": "Si no lloviera tanto, los cultivos serían más saludables",
+            "type": "Second conditional (If + past simple (didn't rain), would + be)"
+        },
+        {
+            "english": "If we had more time, we would explore the city further",
+            "translation": "Si tuviéramos más tiempo, exploraríamos más la ciudad",
+            "type": "Second conditional (If + past simple (had), would + base form)"
+        },
+        {
+            "english": "If she were older, she could apply for that job",
+            "translation": "Si fuera mayor, podría postularse para ese trabajo",
+            "type": "Second conditional (If + past simple (were), could + base form)"
+        },
+        {
+            "english": "If you spoke louder, everyone would hear you",
+            "translation": "Si hablaras más fuerte, todos te escucharían",
+            "type": "Second conditional (If + past simple (spoke), would + base form)"
+        },
+        {
+            "english": "If I had enough money, I would buy a house",
+            "translation": "Si tuviera suficiente dinero, compraría una casa",
+            "type": "Second conditional (If + past simple (had), would + base form)"
+        },
+        {
+            "english": "If it were colder, we would wear jackets",
+            "translation": "Si hiciera más frío, llevaríamos chaquetas",
+            "type": "Second conditional (If + past simple (were), would + base form)"
+        },
+        {
+            "english": "If they lived in a bigger city, they would have more job opportunities",
+            "translation": "Si vivieran en una ciudad más grande, tendrían más oportunidades de trabajo",
+            "type": "Second conditional (If + past simple (lived), would + base form)"
+        },
+        {
+            "english": "If I had studied harder, I would have passed the exam",
+            "translation": "Si hubiera estudiado más duro, habría aprobado el examen",
+            "type": "Third conditional (If + past perfect (had studied), would have + past participle)"
+        },
+        {
+            "english": "If they had arrived on time, we wouldn't have missed the train",
+            "translation": "Si hubieran llegado a tiempo, no habríamos perdido el tren",
+            "type": "Third conditional (If + past perfect (had arrived), wouldn't have + past participle)"
+        },
+        {
+            "english": "If she had known about the meeting, she would have attended",
+            "translation": "Si hubiera sabido sobre la reunión, habría asistido",
+            "type": "Third conditional (If + past perfect (had known), would have + past participle)"
+        },
+        {
+            "english": "If we had taken the earlier flight, we would have arrived on time",
+            "translation": "Si hubiéramos tomado el vuelo anterior, habríamos llegado a tiempo",
+            "type": "Third conditional (If + past perfect (had taken), would have + past participle)"
+        },
+        {
+            "english": "If you had told me, I could have helped you",
+            "translation": "Si me lo hubieras dicho, podría haberte ayudado",
+            "type": "Third conditional (If + past perfect (had told), could have + past participle)"
+        },
+        {
+            "english": "If they had studied more, they might have passed the course",
+            "translation": "Si hubieran estudiado más, tal vez habrían aprobado el curso",
+            "type": "Third conditional (If + past perfect (had studied), might have + past participle)"
+        },
+        {
+            "english": "If it had snowed, the roads would have been slippery",
+            "translation": "Si hubiera nevado, las carreteras habrían estado resbaladizas",
+            "type": "Third conditional (If + past perfect (had snowed), would have + been)"
+        },
+        {
+            "english": "If he had listened to the advice, he wouldn't be in trouble now",
+            "translation": "Si hubiera escuchado el consejo, no estaría en problemas ahora",
+            "type": "Third conditional (If + past perfect (had listened), wouldn't be)"
+        },
+        {
+            "english": "If she had taken the job offer, she would have gained valuable experience",
+            "translation": "Si hubiera aceptado la oferta de trabajo, habría ganado experiencia valiosa",
+            "type": "Third conditional (If + past perfect (had taken), would have + past participle)"
+        },
+        {
+            "english": "If they had arrived earlier, they might have caught the last train",
+            "translation": "Si hubieran llegado más temprano, tal vez habrían alcanzado el último tren",
+            "type": "Third conditional (If + past perfect (had arrived), might have + past participle)"
+        },
+        {
+            "english": "If I had known you were coming, I would have prepared dinner",
+            "translation": "Si hubiera sabido que venías, habría preparado la cena",
+            "type": "Third conditional (If + past perfect (had known), would have + past participle)"
+        },
+        {
+            "english": "If we had studied harder, we might have gotten better grades",
+            "translation": "Si hubiéramos estudiado más duro, tal vez habríamos obtenido mejores notas",
+            "type": "Third conditional (If + past perfect (had studied), might have + past participle)"
+        },
+        {
+            "english": "If he had saved money, he could have bought a car",
+            "translation": "Si hubiera ahorrado dinero, podría haber comprado un coche",
+            "type": "Third conditional (If + past perfect (had saved), could have + past participle)"
+        },
+        {
+            "english": "If they had listened to the weather forecast, they wouldn't have gone hiking in the rain",
+            "translation": "Si hubieran escuchado el pronóstico del tiempo, no habrían ido de excursión bajo la lluvia",
+            "type": "Third conditional (If + past perfect (had listened), wouldn't have + past participle)"
+        },
+        {
+            "english": "If you had read the instructions, you wouldn't have made that mistake",
+            "translation": "Si hubieras leído las instrucciones, no habrías cometido ese error",
+            "type": "Third conditional (If + past perfect (had read), wouldn't have + past participle)"
+        },
+        {
+            "english": "If she had called earlier, we could have made reservations",
+            "translation": "Si hubiera llamado más temprano, podríamos haber hecho reservaciones",
+            "type": "Third conditional (If + past perfect (had called), could have + past participle)"
+        },
+        {
+            "english": "If they had left on time, they might have caught the last bus",
+            "translation": "Si hubieran salido a tiempo, tal vez habrían alcanzado el último autobús",
+            "type": "Third conditional (If + past perfect (had left), might have + past participle)"
+        },
+        {
+            "english": "If he had asked for help, he wouldn't have struggled so much",
+            "translation": "Si hubiera pedido ayuda, no habría luchado tanto",
+            "type": "Third conditional (If + past perfect (had asked), wouldn't have + past participle)"
+        },
+        {
+            "english": "If we had left earlier, we might have avoided the traffic",
+            "translation": "Si hubiéramos salido más temprano, tal vez habríamos evitado el tráfico",
+            "type": "Third conditional (If + past perfect (had left), might have + past participle)"
+        },
+        {
+            "english": "If she had seen the warning signs, she wouldn't have gone swimming",
+            "translation": "Si hubiera visto las señales de advertencia, no habría ido a nadar",
+            "type": "Third conditional (If + past perfect (had seen), wouldn't have + past participle)"
+        },
+        {
+            "english": "If you exercise a lot, you burn fat",
+            "translation": "Si haces mucho ejercicio, quemas grasa",
+            "type": "First conditional"
+        },
+        {
+            "english": "Plants die if you don't water them",
+            "translation": "Las plantas se mueren si no las riegas",
+            "type": "First conditional"
+        },
+        {
+            "english": "If I get on a boat, I get seasick",
+            "translation": "Si me subo a un barco, me mareo",
+            "type": "First conditional"
+        },
+        {
+            "english": "Water becomes ice if you freeze it",
+            "translation": "El agua se convierte en hielo si la congelas",
+            "type": "First conditional"
+        },
+        {
+            "english": "If the baby has belly ache, he cries",
+            "translation": "Si el bebé tiene dolor de barriga, llora",
+            "type": "First conditional"
+        },
+        {
+            "english": "If I don't put on sunscreen, I get burnt",
+            "translation": "Si no me pongo crema solar, me quemo",
+            "type": "First conditional"
+        },
+        {
+            "english": "The grass becomes greener when it rains",
+            "translation": "La hierba se vuelve más verde cuando llueve",
+            "type": "First conditional"
+        },
+        {
+            "english": "Birds tweet when they are hungry",
+            "translation": "Los pájaros pían cuando tienen hambre",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you mix red and white, you get pink",
+            "translation": "Si mezclas rojo y blanco, obtienes rosa",
+            "type": "First conditional"
+        },
+        {
+            "english": "If public transport works well, people use their cars less",
+            "translation": "Si el transporte público funciona bien, la gente usa menos sus coches",
+            "type": "First conditional"
+        },
+        {
+            "english": "If I raise my left arm, it hurts",
+            "translation": "Si levanto el brazo izquierdo, me duele",
+            "type": "First conditional"
+        },
+        {
+            "english": "Jules can't sleep at night if she drinks coffee in the afternoon",
+            "translation": "Jules no puede dormir por la noche si bebe café por la tarde",
+            "type": "First conditional"
+        },
+        {
+            "english": "When I finish working, I always have a sandwich",
+            "translation": "Cuando termino de trabajar, siempre me como un bocadillo",
+            "type": "First conditional"
+        },
+        {
+            "english": "Ice melts if you heat it",
+            "translation": "El hielo se derrite si lo calientas",
+            "type": "First conditional"
+        },
+        {
+            "english": "Potatoes go off if you leave them in the sun",
+            "translation": "Las patatas se estropean si las dejas al sol",
+            "type": "First conditional"
+        },
+        {
+            "english": "You get tooth decay if you eat too much sugar",
+            "translation": "Te salen caries si comes demasiado azúcar",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you get wet in winter, you catch a cold",
+            "translation": "Si te mojas en invierno, pillas un resfriado",
+            "type": "First conditional"
+        },
+        {
+            "english": "When it gets dark, the owls hoot",
+            "translation": "Cuando oscurece, los búhos ululan",
+            "type": "First conditional"
+        },
+        {
+            "english": "If the sky gets cloudy, it gets darker",
+            "translation": "Si el cielo se nubla, se oscurece",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you practice every day, it gets easier",
+            "translation": "Si practicas cada día, se vuelve más fácil",
+            "type": "First conditional"
+        },
+        {
+            "english": "The tree branches move when the wind blows",
+            "translation": "Las ramas de los árboles se mueven cuando sopla el viento",
+            "type": "First conditional"
+        },
+        {
+            "english": "Your skin gets wrinkled if you stay in the water for too long",
+            "translation": "La piel se arruga si te quedas mucho tiempo en el agua",
+            "type": "First conditional"
+        },
+        {
+            "english": "If I wake up too early, I can't fall asleep again",
+            "translation": "Si me despierto demasiado temprano, no puedo volver a dormir",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you keep bananas in the fridge, they last longer",
+            "translation": "Si guardas los plátanos en la nevera, duran más",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you reheat spaghetti, they get dry",
+            "translation": "Si recalientas espaguetis, se secan",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you don't eat enough, you don't have much energy",
+            "translation": "Si no comes suficiente, no tienes mucha energía",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you leave that glass there, the cat will knock it over",
+            "translation": "Si dejas ese vaso ahí, el gato lo tirará",
+            "type": "First conditional"
+        },
+        {
+            "english": "If my hair gets wet from the rain, it gets frizzy",
+            "translation": "Si se me moja el pelo por la lluvia, se me encrespa",
+            "type": "First conditional"
+        },
+        {
+            "english": "If someone enters the room, the kid hides behind the curtain",
+            "translation": "Si alguien entra en la habitación, el niño se esconde detrás de la cortina",
+            "type": "First conditional"
+        },
+        {
+            "english": "If I don't eat any fruit for days, I feel weak",
+            "translation": "Si no como fruta durante días, me siento débil",
+            "type": "First conditional"
+        },
+        {
+            "english": "If it is sunny, clothes dry quickly outside",
+            "translation": "Si hace sol, la ropa se seca rápido fuera",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you cut your finger, you bleed",
+            "translation": "Si te cortas el dedo, sangras",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you smile at the dog, he wags his tail",
+            "translation": "Si sonríes al perro, mueve la cola",
+            "type": "First conditional"
+        },
+        {
+            "english": "Does it hurt if you bend your knee?",
+            "translation": "¿Te duele si doblas la rodilla?",
+            "type": "First conditional"
+        },
+        {
+            "english": "If Chris doesn't get enough sleep, he has trouble concentrating",
+            "translation": "Si Chris no duerme suficiente, tiene problemas para concentrarse",
+            "type": "First conditional"
+        },
+        {
+            "english": "If we don't do our homework, the teacher scolds us",
+            "translation": "Si no hacemos los deberes, el profesor nos regaña",
+            "type": "First conditional"
+        },
+        {
+            "english": "If my mother needs anything, she calls me",
+            "translation": "Si mi madre necesita algo, me llama",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you massage your hands with olive oil and salt, they become softer",
+            "translation": "Si te masajeas las manos con aceite de oliva y sal, se vuelven más suaves",
+            "type": "First conditional"
+        },
+        {
+            "english": "Do you get bored if you don't have your phone with you?",
+            "translation": "¿Te aburres si no tienes el móvil contigo?",
+            "type": "First conditional"
+        },
+        {
+            "english": "If the cat is hungry, she scratches her plate",
+            "translation": "Si la gata tiene hambre, rasca su plato",
+            "type": "First conditional"
+        },
+        {
+            "english": "If it's very hot, I can't sleep",
+            "translation": "Si hace mucho calor, no puedo dormir",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you press that button, you turn on the ceiling fan",
+            "translation": "Si presionas ese botón, enciendes el ventilador de techo",
+            "type": "First conditional"
+        },
+        {
+            "english": "If we turn off the lights, we can't see",
+            "translation": "Si apagamos las luces, no podemos ver",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you leave your shoes outside, they get wet",
+            "translation": "Si dejas tus zapatos fuera, se mojan",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you don't put gas in the car, it stops",
+            "translation": "Si no echas gasolina al coche, se para",
+            "type": "First conditional"
+        },
+        {
+            "english": "Does your throat hurt if you swallow?",
+            "translation": "¿Te duele la garganta si tragas?",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you eat too much cake, you feel sick",
+            "translation": "Si comes demasiado pastel, te sientes mal",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you call me later, I will be asleep",
+            "translation": "Si me llamas más tarde, estaré dormido",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you don't brush your teeth, you get cavities",
+            "translation": "Si no te cepillas los dientes, te salen caries",
+            "type": "First conditional"
+        },
+        {
+            "english": "If the movie is boring, I fall asleep",
+            "translation": "Si la película es aburrida, me quedo dormido",
+            "type": "First conditional"
+        },
+        {
+            "english": "If I eat before exercising, I feel sick",
+            "translation": "Si como antes de hacer ejercicio, me siento mal",
+            "type": "First conditional"
+        },
+        {
+            "english": "If it's sunny tomorrow, we'll go to the beach",
+            "translation": "Si hace sol mañana, iremos a la playa",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you close your eyes, you can't see anything",
+            "translation": "Si cierras los ojos, no puedes ver nada",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you put a plant in the dark, it dies",
+            "translation": "Si pones una planta en la oscuridad, se muere",
+            "type": "First conditional"
+        },
+        {
+            "english": "If the battery is low, the toy stops",
+            "translation": "Si la batería está baja, el juguete se para",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you eat too much candy, your teeth hurt",
+            "translation": "Si comes demasiados caramelos, te duelen los dientes",
+            "type": "First conditional"
+        },
+        {
+            "english": "If I drink coffee late, I can't sleep",
+            "translation": "Si tomo café tarde, no puedo dormir",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you touch that button, the music starts",
+            "translation": "Si tocas ese botón, empieza la música",
+            "type": "First conditional"
+        },
+        {
+            "english": "If I eat cheese before bed, I have strange dreams",
+            "translation": "Si como queso antes de acostarme, tengo sueños extraños",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you leave the cake in the sun, it melts",
+            "translation": "Si dejas el pastel al sol, se derrite",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you don't have a ticket, you can't get in",
+            "translation": "Si no tienes entrada, no puedes entrar",
+            "type": "First conditional"
+        },
+        {
+            "english": "If I get up late, I miss the bus",
+            "translation": "Si me levanto tarde, pierdo el autobús",
+            "type": "First conditional"
+        },
+        {
+            "english": "If it rains, I won't go out",
+            "translation": "Si llueve, no saldré",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you put the milk in the fridge, it stays fresh",
+            "translation": "Si pones la leche en la nevera, se mantiene fresca",
+            "type": "First conditional"
+        },
+        {
+            "english": "If I work too much, I feel tired",
+            "translation": "Si trabajo demasiado, me siento cansado",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you sleep late, you feel sleepy in the morning",
+            "translation": "Si te acuestas tarde, tienes sueño por la mañana",
+            "type": "First conditional"
+        },
+        {
+            "english": "If you don't study, you fail the exam",
+            "translation": "Si no estudias, suspendes el examen",
+            "type": "First conditional"
+        }
+    ]
+}

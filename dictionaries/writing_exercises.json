@@ -1,0 +1,189 @@
+{
+  "sentences": [
+    {
+      "Spanish": "He visitado París tres veces",
+      "Answer": "I have visited Paris three times",
+      "Explanation": "Presente Perfecto: Para acciones que ocurrieron en el pasado pero que tienen relevancia en el presente, o para acciones que comenzaron en el pasado y continúan en el presente"
+    },
+    {
+      "Spanish": "Ella nunca ha visto una ballena",
+      "Answer": "She has never seen a whale",
+      "Explanation": "Presente Perfecto: Para acciones que ocurrieron en el pasado pero que tienen relevancia en el presente"
+    },
+    {
+      "Spanish": "Acabo de terminar mi tarea",
+      "Answer": "I have just finished my homework",
+      "Explanation": "Presente Perfecto: Acciones recientes con relevancia en el presente"
+    },
+    {
+      "Spanish": "Ellos ya se han ido",
+      "Answer": "They have already left",
+      "Explanation": "Presente Perfecto: Acciones recientes con relevancia en el presente"
+    },
+    {
+      "Spanish": "Hemos vivido aquí durante diez años",
+      "Answer": "We have lived here for ten years",
+      "Explanation": "Presente Perfecto: Acciones que comenzaron en el pasado y continúan en el presente"
+    },
+    {
+      "Spanish": "Él ha trabajado en la empresa desde 2010",
+      "Answer": "He has worked at the company since 2010",
+      "Explanation": "Presente Perfecto: Acciones que comenzaron en el pasado y continúan en el presente"
+    },
+    {
+      "Spanish": "He estado estudiando inglés durante dos horas",
+      "Answer": "I have been s Continuotudying  for two hours",
+      "Explanation": "Presente PerfectoAnswer: Para acciones que comenzaron en el pasado y continúan en el presente, poniendo énfasis en la duración de la acción"
+    },
+    {
+      "Spanish": "Ella ha estado trabajando en el hospital desde 2015",
+      "Answer": "She has been working at the hospital since 2015",
+      "Explanation": "Presente Perfecto Continuo: Para acciones que comenzaron en el pasado y continúan en el presente, poniendo énfasis en la duración de la acción"
+    },
+    {
+      "Spanish": "Han estado corriendo, así que están cansados",
+      "Answer": "They have been running, so they are tired",
+      "Explanation": "Presente Perfecto Continuo: Acciones recientes con relevancia en el presente y que enfatizan la duración"
+    },
+    {
+      "Spanish": "Ha estado lloviendo todo el día",
+      "Answer": "It has been raining all day",
+      "Explanation": "Presente Perfecto Continuo: Acciones recientes con relevancia en el presente y que enfatizan la duración"
+    },
+    {
+      "Spanish": "Había terminado mi tarea antes de la cena",
+      "Answer": "I had finished my homework before dinner",
+      "Explanation": "Pasado Perfecto: Para acciones que ocurrieron antes de otra acción en el pasado"
+    },
+    {
+      "Spanish": "Ella había salido de la oficina cuando llegué",
+      "Answer": "She had left the office when I arrived",
+      "Explanation": "Pasado Perfecto: Para acciones que ocurrieron antes de otra acción en el pasado"
+    },
+    {
+      "Spanish": "Ellos nunca habían viajado al extranjero hasta el año pasado",
+      "Answer": "They had never traveled abroad until last year",
+      "Explanation": "Pasado Perfecto: Experiencia o situación antes de otro momento en el pasado"
+    },
+    {
+      "Spanish": "Él ya había leído el libro antes de ver la película",
+      "Answer": "He had already read the book before he saw the movie",
+      "Explanation": "Pasado Perfecto: Experiencia o situación antes de otro momento en el pasado"
+    },
+    {
+      "Spanish": "Había estado estudiando durante horas cuando ella llamó",
+      "Answer": "I had been studying for hours when she called",
+      "Explanation": "Pasado Perfecto Continuo: Para acciones que estaban en progreso antes de otra acción en el pasado, poniendo énfasis en la duración"
+    },
+    {
+      "Spanish": "Habían estado trabajando todo el día antes de que llegara la tormenta",
+      "Answer": "They had been working all day before the storm hit",
+      "Explanation": "Pasado Perfecto Continuo: Para acciones que estaban en progreso antes de otra acción en el pasado, poniendo énfasis en la duración"
+    },
+    {
+      "Spanish": "Estaba cansado porque había estado corriendo",
+      "Answer": "He was tired because he had been running",
+      "Explanation": "Pasado Perfecto Continuo: Situaciones en progreso que explican una condición pasada"
+    },
+    {
+      "Spanish": "Estaba mojada porque había estado caminando bajo la lluvia",
+      "Answer": "She was wet because she had been walking in the rain",
+      "Explanation": "Pasado Perfecto Continuo: Situaciones en progreso que explican una condición pasada"
+    },
+    {
+      "Spanish": "Habré terminado mi tarea para las 8 PM",
+      "Answer": "I will have finished my homework by 8 PM",
+      "Explanation": "Futuro Perfecto: Para acciones que se habrán completado antes de un momento específico en el futuro"
+    },
+    {
+      "Spanish": "Habrán salido de la oficina para cuando llegues",
+      "Answer": "They will have left the office by the time you arrive",
+      "Explanation": "Futuro Perfecto: Para acciones que se habrán completado antes de un momento específico en el futuro"
+    },
+    {
+      "Spanish": "Ella habrá viajado a cinco países para fin de año",
+      "Answer": "She will have traveled to five countries by the end of the year",
+      "Explanation": "Futuro Perfecto: Experiencias futuras antes de un momento específico"
+    },
+    {
+      "Spanish": "Habríamos ahorrado suficiente dinero para comprar una casa para el próximo verano",
+      "Answer": "We will have saved enough money to buy a house by next summer",
+      "Explanation": "Futuro Perfecto: Experiencias futuras antes de un momento específico"
+    },
+    {
+      "Spanish": "Para el próximo mes, habré estado trabajando aquí durante cinco años",
+      "Answer": "By next month, I will have been working here for five years",
+      "Explanation": "Futuro Perfecto Continuo: Para acciones que estarán en progreso hasta un momento específico en el futuro, poniendo énfasis en la duración"
+    },
+    {
+      "Spanish": "Ella habrá estado estudiando durante diez horas para cuando comience el examen",
+      "Answer": "She will have been studying for ten hours by the time the exam starts",
+      "Explanation": "Futuro Perfecto Continuo: Para acciones que estarán en progreso hasta un momento específico en el futuro, poniendo énfasis en la duración"
+    },
+    {
+      "Spanish": "Para fin de año, habrán estado viviendo en la ciudad durante una década",
+      "Answer": "By the end of the year, they will have been living in the city for a decade",
+      "Explanation": "Futuro Perfecto Continuo: Situaciones futuras en progreso hasta un momento específico"
+    },
+    {
+      "Spanish": "Él habrá estado corriendo durante una hora para cuando te unas a él",
+      "Answer": "He will have been running for an hour by the time you join him",
+      "Explanation": "Futuro Perfecto Continuo: Situaciones futuras en progreso hasta un momento específico"
+    },
+    {
+      "Spanish": "Ella lee un libro",
+      "Answer": "She reads a book",
+      "Explanation": "Oraciones simples: Contienen un solo sujeto y un solo predicado"
+    },
+    {
+      "Spanish": "Juan cocina la cena y María pone la mesa",
+      "Answer": "Juan cooks dinner and María sets the table",
+      "Explanation": "Oraciones compuestas: Contienen dos cláusulas independientes unidas por una conjunción coordinativa (en este caso, 'and')"
+    },
+    {
+      "Spanish": "Aunque estaba cansado, él fue a trabajar",
+      "Answer": "Although he was tired, he went to work",
+      "Explanation": "Oraciones complejas: Contienen una cláusula independiente y una cláusula subordinada (en este caso, 'Although he was tired')"
+    },
+    {
+      "Spanish": "El libro que compré ayer es muy interesante",
+      "Answer": "The book that I bought yesterday is very interesting",
+      "Explanation": "Cláusulas subordinadas adjetivas: Proporcionan información adicional sobre un sustantivo (en este caso, 'The book')"
+    },
+    {
+      "Spanish": "Iremos al parque si deja de llover",
+      "Answer": "We will go to the park if it stops raining",
+      "Explanation": "Cláusulas subordinadas adverbiales: Modifican el verbo principal y proporcionan información sobre condiciones, tiempo, razón, etc. (en este caso, 'if it stops raining')"
+    },
+    {
+      "Spanish": "Ella dijo que estaba enferma",
+      "Answer": "She said that she was sick",
+      "Explanation": "Cláusulas subordinadas nominales: Actúan como un sustantivo dentro de la oración principal (en este caso, 'that she was sick')"
+    },
+    {
+      "Spanish": "Él trabaja duro, pero no gana mucho dinero",
+      "Answer": "He works hard, but he doesn't earn much money",
+      "Explanation": "Conjunciones coordinativas: Unen dos cláusulas independientes (en este caso, 'but')"
+    },
+    {
+      "Spanish": "No podía ir a la fiesta porque estaba enfermo",
+      "Answer": "He couldn't go to the party because he was sick",
+      "Explanation": "Conjunciones subordinativas: Introducen una cláusula subordinada (en este caso, 'because')"
+    },
+    {
+      "Spanish": "Quiero saber dónde vives",
+      "Answer": "I want to know where you live",
+      "Explanation": "Cláusulas subordinadas nominales: Actúan como el objeto directo de la oración principal (en este caso, 'where you live')"
+    },
+    {
+      "Spanish": "El coche, que es rojo, es muy rápido",
+      "Answer": "The car, which is red, is very fast",
+      "Explanation": "Cláusulas subordinadas adjetivas: Proporcionan información adicional sobre un sustantivo (en este caso, 'which is red')"
+    },
+    {
+      "Spanish": "A pesar de que estaba lloviendo, fuimos a caminar",
+      "Answer": "Despite the rain, we went for a walk",
+      "Explanation": "Cláusulas subordinadas adverbiales: Modifican el verbo principal y proporcionan información sobre condiciones, tiempo, razón, etc. (en este caso, 'Despite the rain')"
+    }
+  ]
+}

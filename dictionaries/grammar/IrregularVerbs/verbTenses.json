@@ -1,0 +1,592 @@
+{
+    "phrases": [
+        {
+            "word": "Arise",
+            "Translation": "Levantar",
+            "Participio": "Arisen",
+            "Past": "Arose"
+        },
+        {
+            "word": "Awake",
+            "Translation": "Despertar",
+            "Participio": "Awoken",
+            "Past": "Awoke"
+        },
+        {
+            "word": "Be",
+            "Translation": "Ser/Estar",
+            "Participio": "Been",
+            "Past": "Was/Were"
+        },
+        {
+            "word": "Bear",
+            "Translation": "Soportar",
+            "Participio": "Borne",
+            "Past": "Bore"
+        },
+        {
+            "word": "Beat",
+            "Translation": "Golpear",
+            "Participio": "Beaten",
+            "Past": "Beat"
+        },
+        {
+            "word": "Become",
+            "Translation": "Convertirse",
+            "Participio": "Become",
+            "Past": "Became"
+        },
+        {
+            "word": "Begin",
+            "Translation": "Empezar",
+            "Participio": "Begun",
+            "Past": "Began"
+        },
+        {
+            "word": "Bend",
+            "Translation": "Doblar",
+            "Participio": "Bent",
+            "Past": "Bent"
+        },
+        {
+            "word": "Bet",
+            "Translation": "Apostar",
+            "Participio": "Bet",
+            "Past": "Bet"
+        },
+        {
+            "word": "Bind",
+            "Translation": "Atar",
+            "Participio": "Bound",
+            "Past": "Bound"
+        },
+        {
+            "word": "Bid",
+            "Translation": "Ofrecer",
+            "Participio": "Bid",
+            "Past": "Bid"
+        },
+        {
+            "word": "Bite",
+            "Translation": "Morder",
+            "Participio": "Bitten",
+            "Past": "Bit"
+        },
+        {
+            "word": "Bleed",
+            "Translation": "Sangrar",
+            "Participio": "Bled",
+            "Past": "Bled"
+        },
+        {
+            "word": "Blow",
+            "Translation": "Soplar",
+            "Participio": "Blown",
+            "Past": "Blew"
+        },
+        {
+            "word": "Break",
+            "Translation": "Romper",
+            "Participio": "Broken",
+            "Past": "Broke"
+        },
+        {
+            "word": "Breed",
+            "Translation": "Criar",
+            "Participio": "Bred",
+            "Past": "Bred"
+        },
+        {
+            "word": "Bring",
+            "Translation": "Traer",
+            "Participio": "Brought",
+            "Past": "Brought"
+        },
+        {
+            "word": "Broadcast",
+            "Translation": "Transmitir",
+            "Participio": "Broadcast",
+            "Past": "Broadcast"
+        },
+        {
+            "word": "Build",
+            "Translation": "Construir",
+            "Participio": "Built",
+            "Past": "Built"
+        },
+        {
+            "word": "Burn",
+            "Translation": "Quemar",
+            "Participio": "Burnt/Burned",
+            "Past": "Burnt/Burned"
+        },
+        {
+            "word": "Burst",
+            "Translation": "Explotar",
+            "Participio": "Burst",
+            "Past": "Burst"
+        },
+        {
+            "word": "Buy",
+            "Translation": "Comprar",
+            "Participio": "Bought",
+            "Past": "Bought"
+        },
+        {
+            "word": "Cast",
+            "Translation": "Lanzar",
+            "Participio": "Cast",
+            "Past": "Cast"
+        },
+        {
+            "word": "Catch",
+            "Translation": "Atrapar",
+            "Participio": "Caught",
+            "Past": "Caught"
+        },
+        {
+            "word": "Come",
+            "Translation": "Venir",
+            "Participio": "Come",
+            "Past": "Came"
+        },
+        {
+            "word": "Choose",
+            "Translation": "Elegir",
+            "Participio": "Chosen",
+            "Past": "Chose"
+        },
+        {
+            "word": "Cling",
+            "Translation": "Aferrarse",
+            "Participio": "Clung",
+            "Past": "Clung"
+        },
+        {
+            "word": "Creep",
+            "Translation": "Deslizarse",
+            "Participio": "Crept",
+            "Past": "Crept"
+        },
+        {
+            "word": "Deal",
+            "Translation": "Tratar",
+            "Participio": "Dealt",
+            "Past": "Dealt"
+        },
+        {
+            "word": "Dig",
+            "Translation": "Cavar",
+            "Participio": "Dug",
+            "Past": "Dug"
+        },
+        {
+            "word": "Do",
+            "Translation": "Hacer",
+            "Participio": "Done",
+            "Past": "Did"
+        },
+        {
+            "word": "Draw",
+            "Translation": "Dibujar",
+            "Participio": "Drawn",
+            "Past": "Drew"
+        },
+        {
+            "word": "Dream",
+            "Translation": "Soñar",
+            "Participio": "Dreamt/Dreamed",
+            "Past": "Dreamt/Dreamed"
+        },
+        {
+            "word": "Drink",
+            "Translation": "Beber",
+            "Participio": "Drunk",
+            "Past": "Drank"
+        },
+        {
+            "word": "Drive",
+            "Translation": "Conducir",
+            "Participio": "Driven",
+            "Past": "Drove"
+        },
+        {
+            "word": "Eat",
+            "Translation": "Comer",
+            "Participio": "Eaten",
+            "Past": "Ate"
+        },
+        {
+            "word": "Fall",
+            "Translation": "Caer",
+            "Participio": "Fallen",
+            "Past": "Fell"
+        },
+        {
+            "word": "Feed",
+            "Translation": "Alimentar",
+            "Participio": "Fed",
+            "Past": "Fed"
+        },
+        {
+            "word": "Feel",
+            "Translation": "Sentir",
+            "Participio": "Felt",
+            "Past": "Felt"
+        },
+        {
+            "word": "Fight",
+            "Translation": "Pelear",
+            "Participio": "Fought",
+            "Past": "Fought"
+        },
+        {
+            "word": "Find",
+            "Translation": "Encontrar",
+            "Participio": "Found",
+            "Past": "Found"
+        },
+        {
+            "word": "Flee",
+            "Translation": "Huir",
+            "Participio": "Fled",
+            "Past": "Fled"
+        },
+        {
+            "word": "Fly",
+            "Translation": "Volar",
+            "Participio": "Flown",
+            "Past": "Flew"
+        },
+        {
+            "word": "Forbid",
+            "Translation": "Prohibir",
+            "Participio": "Forbidden",
+            "Past": "Forbade"
+        },
+        {
+            "word": "Forget",
+            "Translation": "Olvidar",
+            "Participio": "Forgotten",
+            "Past": "Forgot"
+        },
+        {
+            "word": "Forgive",
+            "Translation": "Perdonar",
+            "Participio": "Forgiven",
+            "Past": "Forgave"
+        },
+        {
+            "word": "Freeze",
+            "Translation": "Congelar",
+            "Participio": "Frozen",
+            "Past": "Froze"
+        },
+        {
+            "word": "Get",
+            "Translation": "Obtener",
+            "Participio": "Got/Gotten",
+            "Past": "Got"
+        },
+        {
+            "word": "Give",
+            "Translation": "Dar",
+            "Participio": "Given",
+            "Past": "Gave"
+        },
+        {
+            "word": "Go",
+            "Translation": "Ir",
+            "Participio": "Gone",
+            "Past": "Went"
+        },
+        {
+            "word": "Grow",
+            "Translation": "Crecer",
+            "Participio": "Grown",
+            "Past": "Grew"
+        },
+        {
+            "word": "Hang",
+            "Translation": "Colgar",
+            "Participio": "Hung",
+            "Past": "Hung"
+        },
+        {
+            "word": "Have",
+            "Translation": "Tener",
+            "Participio": "Had",
+            "Past": "Had"
+        },
+        {
+            "word": "Hear",
+            "Translation": "Oír",
+            "Participio": "Heard",
+            "Past": "Heard"
+        },
+        {
+            "word": "Hide",
+            "Translation": "Esconder",
+            "Participio": "Hidden",
+            "Past": "Hid"
+        },
+        {
+            "word": "Hit",
+            "Translation": "Golpear",
+            "Participio": "Hit",
+            "Past": "Hit"
+        },
+        {
+            "word": "Hold",
+            "Translation": "Sujetar",
+            "Participio": "Held",
+            "Past": "Held"
+        },
+        {
+            "word": "Hurt",
+            "Translation": "Herir",
+            "Participio": "Hurt",
+            "Past": "Hurt"
+        },
+        {
+            "word": "Keep",
+            "Translation": "Mantener",
+            "Participio": "Kept",
+            "Past": "Kept"
+        },
+        {
+            "word": "Know",
+            "Translation": "Saber/Conocer",
+            "Participio": "Known",
+            "Past": "Knew"
+        },
+        {
+            "word": "Lay",
+            "Translation": "Poner",
+            "Participio": "Laid",
+            "Past": "Laid"
+        },
+        {
+            "word": "Lead",
+            "Translation": "Liderar",
+            "Participio": "Led",
+            "Past": "Led"
+        },
+        {
+            "word": "Leave",
+            "Translation": "Dejar",
+            "Participio": "Left",
+            "Past": "Left"
+        },
+        {
+            "word": "Lend",
+            "Translation": "Prestar",
+            "Participio": "Lent",
+            "Past": "Lent"
+        },
+        {
+            "word": "Let",
+            "Translation": "Dejar",
+            "Participio": "Let",
+            "Past": "Let"
+        },
+        {
+            "word": "Lose",
+            "Translation": "Perder",
+            "Participio": "Lost",
+            "Past": "Lost"
+        },
+        {
+            "word": "Make",
+            "Translation": "Hacer",
+            "Participio": "Made",
+            "Past": "Made"
+        },
+        {
+            "word": "Mean",
+            "Translation": "Significar",
+            "Participio": "Meant",
+            "Past": "Meant"
+        },
+        {
+            "word": "Meet",
+            "Translation": "Encontrarse",
+            "Participio": "Met",
+            "Past": "Met"
+        },
+        {
+            "word": "Pay",
+            "Translation": "Pagar",
+            "Participio": "Paid",
+            "Past": "Paid"
+        },
+        {
+            "word": "Put",
+            "Translation": "Poner",
+            "Participio": "Put",
+            "Past": "Put"
+        },
+        {
+            "word": "Read",
+            "Translation": "Leer",
+            "Participio": "Read",
+            "Past": "Read"
+        },
+        {
+            "word": "Ride",
+            "Translation": "Montar",
+            "Participio": "Ridden",
+            "Past": "Rode"
+        },
+        {
+            "word": "Ring",
+            "Translation": "Sonar",
+            "Participio": "Rung",
+            "Past": "Rang"
+        },
+        {
+            "word": "Rise",
+            "Translation": "Levantar",
+            "Participio": "Risen",
+            "Past": "Rose"
+        },
+        {
+            "word": "Run",
+            "Translation": "Correr",
+            "Participio": "Run",
+            "Past": "Ran"
+        },
+        {
+            "word": "Say",
+            "Translation": "Decir",
+            "Participio": "Said",
+            "Past": "Said"
+        },
+        {
+            "word": "See",
+            "Translation": "Ver",
+            "Participio": "Seen",
+            "Past": "Saw"
+        },
+        {
+            "word": "Sell",
+            "Translation": "Vender",
+            "Participio": "Sold",
+            "Past": "Sold"
+        },
+        {
+            "word": "Send",
+            "Translation": "Enviar",
+            "Participio": "Sent",
+            "Past": "Sent"
+        },
+        {
+            "word": "Set",
+            "Translation": "Colocar",
+            "Participio": "Set",
+            "Past": "Set"
+        },
+        {
+            "word": "Shake",
+            "Translation": "Agitar",
+            "Participio": "Shaken",
+            "Past": "Shook"
+        },
+        {
+            "word": "Shine",
+            "Translation": "Brillar",
+            "Participio": "Shone",
+            "Past": "Shone"
+        },
+        {
+            "word": "Shoot",
+            "Translation": "Disparar",
+            "Participio": "Shot",
+            "Past": "Shot"
+        },
+        {
+            "word": "Show",
+            "Translation": "Mostrar",
+            "Participio": "Shown",
+            "Past": "Showed"
+        },
+        {
+            "word": "Sing",
+            "Translation": "Cantar",
+            "Participio": "Sung",
+            "Past": "Sang"
+        },
+        {
+            "word": "Sit",
+            "Translation": "Sentar",
+            "Participio": "Sat",
+            "Past": "Sat"
+        },
+        {
+            "word": "Stand",
+            "Translation": "De pie",
+            "Participio": "Stood",
+            "Past": "Stood"
+        },
+        {
+            "word": "Steal",
+            "Translation": "Robar",
+            "Participio": "Stolen",
+            "Past": "Stole"
+        },
+        {
+            "word": "Stick",
+            "Translation": "Pegar",
+            "Participio": "Stuck",
+            "Past": "Stuck"
+        },
+        {
+            "word": "Swim",
+            "Translation": "Nadar",
+            "Participio": "Swum",
+            "Past": "Swam"
+        },
+        {
+            "word": "Take",
+            "Translation": "Tomar",
+            "Participio": "Taken",
+            "Past": "Took"
+        },
+        {
+            "word": "Teach",
+            "Translation": "Enseñar",
+            "Participio": "Taught",
+            "Past": "Taught"
+        },
+        {
+            "word": "Think",
+            "Translation": "Pensar",
+            "Participio": "Thought",
+            "Past": "Thought"
+        },
+        {
+            "word": "Throw",
+            "Translation": "Lanzar",
+            "Participio": "Thrown",
+            "Past": "Threw"
+        },
+        {
+            "word": "Understand",
+            "Translation": "Entender",
+            "Participio": "Understood",
+            "Past": "Understood"
+        },
+        {
+            "word": "Wake",
+            "Translation": "Despertar",
+            "Participio": "Woken",
+            "Past": "Woke"
+        },
+        {
+            "word": "Wear",
+            "Translation": "Llevar",
+            "Participio": "Worn",
+            "Past": "Wore"
+        }
+    ]
+}
