@@ -10,7 +10,7 @@ import time
 import threading
 from datetime import datetime, timedelta
 
-bot = telebot.TeleBot("7398395154:AAEguy0doM7Bb8K4dZFm5XDwdDIHWIvIpJo")
+bot = telebot.TeleBot("4651654:adsadasgvf")
 
 user_states = {}
 
