@@ -46,7 +46,7 @@ def load_exercise_data():
 
 
 # Inicializar el bot con el token de Telegram proporcionado
-bot = telebot.TeleBot("7398395154:AAEguy0doM7Bb8K4dZFm5XDwdDIHWIvIpJo")
+bot = telebot.TeleBot("djaskbgvjlsrz;fodj")
 
 user_states = {}
 
