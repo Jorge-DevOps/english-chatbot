@@ -5,7 +5,6 @@ from english.utils.keyboard import create_reply_keyboard
 from english.index import state_handlers,english_to_handler,text_responses_english
 from engineer.index import text_responses_engineer,engineer_to_handler
 
-bot = telebot.TeleBot("7547789097:AAHPdG5M2B9EiCgRM-M3PiRzLq0z0rv1gmo")
 user_states = {}
 
 
