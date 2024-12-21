@@ -7,7 +7,6 @@ def welcome():
     ]
     return buttons
 
-
 def grammar():
     buttons = [
         ["🕰️ Past", "🎁 Present", "🔮 Future"],
